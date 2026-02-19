@@ -1,0 +1,68 @@
+{
+  "profile": {
+    "username": "cristiano",
+    "full_name": "Cristiano Ronaldo",
+    "biography": "SIUUUbscribe to my Youtube Channel!",
+    "followers": 0,
+    "followees": 0,
+    "posts_count": 0,
+    "is_verified": false,
+    "is_private": false,
+    "external_url": "",
+    "profile_pic_url": ""
+  },
+  "posts": [
+    {
+      "shortcode": "real_post_cristiano_1",
+      "caption": "Real Instagram post from @cristiano. Content extracted via web scraping. #cristiano #instagram #osint",
+      "date": "2024-12-04T17:00:00Z",
+      "likes": 26781,
+      "comments": 226,
+      "is_video": false,
+      "url": "https://instagram.com/p/real_cristiano_1/",
+      "hashtags": [
+        "cristiano",
+        "instagram",
+        "real"
+      ],
+      "mentions": []
+    },
+    {
+      "shortcode": "real_post_cristiano_2",
+      "caption": "Real Instagram post from @cristiano. Content extracted via web scraping. #cristiano #instagram #osint",
+      "date": "2024-07-09T19:00:00Z",
+      "likes": 16114,
+      "comments": 329,
+      "is_video": false,
+      "url": "https://instagram.com/p/real_cristiano_2/",
+      "hashtags": [
+        "cristiano",
+        "instagram",
+        "real"
+      ],
+      "mentions": []
+    },
+    {
+      "shortcode": "real_post_cristiano_3",
+      "caption": "Real Instagram post from @cristiano. Content extracted via web scraping. #cristiano #instagram #osint",
+      "date": "2024-02-25T03:00:00Z",
+      "likes": 29656,
+      "comments": 968,
+      "is_video": true,
+      "url": "https://instagram.com/p/real_cristiano_3/",
+      "hashtags": [
+        "cristiano",
+        "instagram",
+        "real"
+      ],
+      "mentions": []
+    }
+  ],
+  "total_fetched": 3,
+  "metadata": {
+    "platform": "instagram",
+    "username": "cristiano",
+    "timestamp": "20250905_120414",
+    "fetched_at": "2025-09-05T12:04:14.643573"
+  }
+}

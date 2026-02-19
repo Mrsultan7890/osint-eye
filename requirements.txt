@@ -1,0 +1,44 @@
+instaloader>=4.10.3
+# snscrape>=0.7.0.20230622  # Disabled due to Python 3.13 compatibility
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+spacy>=3.7.2
+textblob>=0.17.1
+matplotlib>=3.7.2
+wordcloud>=1.9.2
+networkx>=3.1
+Pillow>=10.0.0
+python-dotenv>=1.0.0
+typer>=0.9.0
+rich>=13.5.2
+pandas>=2.0.3
+# opencv-python>=4.8.0  # Commented out - heavy dependency
+# selenium>=4.15.0  # Commented out - heavy dependency
+plotly>=5.17.0
+scikit-learn>=1.3.0
+redis>=5.0.0
+pysocks>=1.7.1
+cryptography>=41.0.0
+pyyaml>=6.0.1
+schedule>=1.2.0
+flask>=3.0.0
+reportlab>=4.0.4
+jinja2>=3.1.2
+exifread>=3.0.0
+imagehash>=4.3.1
+openpyxl>=3.1.2
+lxml>=4.9.3
+xmltodict>=0.13.0
+jsonschema>=4.19.0
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.21.1
+kaleido>=0.2.1
+# face-recognition>=1.3.0  # Commented out - requires dlib/cmake
+# webdriver-manager>=4.0.1  # Commented out - selenium dependency
+
+# Digital Forensics
+psutil>=5.9.0
+
+# Advanced Features
+imagehash>=4.3.1
+Pillow>=10.0.0

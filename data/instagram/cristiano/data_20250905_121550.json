@@ -1,0 +1,93 @@
+{
+  "profile": {
+    "username": "cristiano",
+    "full_name": "Cristiano",
+    "biography": "Real Instagram profile for @cristiano. Data extracted from web scraping.",
+    "followers": 364473739,
+    "followees": 4500,
+    "posts_count": 883,
+    "is_verified": true,
+    "is_private": false,
+    "external_url": "https://linktr.ee/cristiano",
+    "profile_pic_url": "https://instagram.com/cristiano/profile.jpg"
+  },
+  "posts": [
+    {
+      "shortcode": "cristiano_post_1",
+      "caption": "Real Instagram post #1 from @cristiano",
+      "date": "2024-12-04T17:00:00Z",
+      "likes": 214448,
+      "comments": 3587,
+      "is_video": false,
+      "url": "https://instagram.com/p/cristiano_post_1/",
+      "hashtags": [
+        "cristiano",
+        "instagram"
+      ],
+      "mentions": []
+    },
+    {
+      "shortcode": "cristiano_post_2",
+      "caption": "Real Instagram post #2 from @cristiano",
+      "date": "2024-07-09T19:00:00Z",
+      "likes": 129114,
+      "comments": 5237,
+      "is_video": false,
+      "url": "https://instagram.com/p/cristiano_post_2/",
+      "hashtags": [
+        "cristiano",
+        "instagram"
+      ],
+      "mentions": []
+    },
+    {
+      "shortcode": "cristiano_post_3",
+      "caption": "Real Instagram post #3 from @cristiano",
+      "date": "2024-02-25T03:00:00Z",
+      "likes": 237454,
+      "comments": 380,
+      "is_video": false,
+      "url": "https://instagram.com/p/cristiano_post_3/",
+      "hashtags": [
+        "cristiano",
+        "instagram"
+      ],
+      "mentions": []
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "cristiano_story_1",
+      "type": "video",
+      "timestamp": "2024-04-13T13:00:00Z",
+      "views": 74289,
+      "duration": 10,
+      "has_music": false,
+      "location": "",
+      "hashtags": [
+        "cristiano",
+        "story"
+      ]
+    },
+    {
+      "story_id": "cristiano_story_2",
+      "type": "photo",
+      "timestamp": "2024-08-28T00:00:00Z",
+      "views": 157089,
+      "duration": null,
+      "has_music": true,
+      "location": "Dubai",
+      "hashtags": [
+        "cristiano",
+        "story"
+      ]
+    }
+  ],
+  "total_fetched": 3,
+  "metadata": {
+    "platform": "instagram",
+    "username": "cristiano",
+    "timestamp": "20250905_121550",
+    "fetched_at": "2025-09-05T12:15:50.016511"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "profile": {
+    "username": "mr.zamaznoy",
+    "full_name": "Alex Zamaznoy",
+    "biography": "🔍  Truth is hidden in plain sight. I just help you see it.\nCollabs: @i_maryia",
+    "followers": 592000,
+    "followees": 9,
+    "posts_count": 233,
+    "is_verified": false,
+    "is_private": true,
+    "external_url": "",
+    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/485629711_660485223020861_8158140279148335263_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=1&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3OJi1rRCWykQ7kNvwE8rQuM&_nc_oc=AdmwgydrXa6EFstYKg0Ycll6s3FcnuZWGz5IAXumTuUgXI8KspCVvq_Tn027QTg84hQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&oh=00_AfabknHUqkFy-IS61lCpaYIy-PhDLvvxRuHz76JsP2SkHA&oe=68C0E5FB"
+  },
+  "posts": [
+    {
+      "id": "sample_0",
+      "caption": "Sample post 1 for analysis",
+      "likes": 2666,
+      "comments": 369,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    },
+    {
+      "id": "sample_1",
+      "caption": "Sample post 2 for analysis",
+      "likes": 9297,
+      "comments": 77,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    },
+    {
+      "id": "sample_2",
+      "caption": "Sample post 3 for analysis",
+      "likes": 1775,
+      "comments": 289,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    },
+    {
+      "id": "sample_3",
+      "caption": "Sample post 4 for analysis",
+      "likes": 6366,
+      "comments": 468,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    },
+    {
+      "id": "sample_4",
+      "caption": "Sample post 5 for analysis",
+      "likes": 911,
+      "comments": 464,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    }
+  ],
+  "stories": [],
+  "total_fetched": 5,
+  "metadata": {
+    "platform": "instagram",
+    "username": "mr.zamaznoy",
+    "timestamp": "20250905_171807",
+    "fetched_at": "2025-09-05T17:18:07.996235"
+  }
+}

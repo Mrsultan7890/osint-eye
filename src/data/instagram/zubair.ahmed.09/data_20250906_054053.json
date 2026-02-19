@@ -1,0 +1,102 @@
+{
+  "profile": {
+    "username": "zubair.ahmed.09",
+    "full_name": "zubair ahmed",
+    "biography": "",
+    "followers": 5,
+    "followees": 9,
+    "posts_count": 2,
+    "is_verified": false,
+    "is_private": false,
+    "external_url": "",
+    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.82787-19/540691214_17847803199552281_1335789948948948349_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cs2s-6fNzsAQ7kNvwFiCQiE&_nc_oc=Adm2k763AoCAZjHNidRpnJWyRUOiPJGYg1WRiDpSYQGPHlWV8Q-QiFyp5qMbh7NpLlY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Cy6doYX9IXCufi8zfB-7PA&oh=00_Afa6sedXf4SfU8H9_6R5ZmLBklecBlN-0kWer9SgvNX0dg&oe=68C1B769"
+  },
+  "posts": [
+    {
+      "id": "demo_post_zubair.ahmed.09_0",
+      "caption": "[DEMO] Sample post 1 for analysis demonstration",
+      "likes": 0,
+      "comments": 0,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "unknown",
+      "hashtags": [],
+      "mentions": [],
+      "data_source": "generated_demo",
+      "note": "This is demonstration data - real post metrics require Instagram login",
+      "local_media_path": "/home/kali/Desktop/tools/osint-eye/images/zubair.ahmed.09/zubair.ahmed.09_media_1.jpg"
+    },
+    {
+      "id": "demo_post_zubair.ahmed.09_1",
+      "caption": "[DEMO] Sample post 2 for analysis demonstration",
+      "likes": 0,
+      "comments": 0,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "unknown",
+      "hashtags": [],
+      "mentions": [],
+      "data_source": "generated_demo",
+      "note": "This is demonstration data - real post metrics require Instagram login"
+    },
+    {
+      "id": "demo_post_zubair.ahmed.09_2",
+      "caption": "[DEMO] Sample post 3 for analysis demonstration",
+      "likes": 0,
+      "comments": 0,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "unknown",
+      "hashtags": [],
+      "mentions": [],
+      "data_source": "generated_demo",
+      "note": "This is demonstration data - real post metrics require Instagram login"
+    },
+    {
+      "id": "demo_post_zubair.ahmed.09_3",
+      "caption": "[DEMO] Sample post 4 for analysis demonstration",
+      "likes": 0,
+      "comments": 0,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "unknown",
+      "hashtags": [],
+      "mentions": [],
+      "data_source": "generated_demo",
+      "note": "This is demonstration data - real post metrics require Instagram login"
+    },
+    {
+      "id": "demo_post_zubair.ahmed.09_4",
+      "caption": "[DEMO] Sample post 5 for analysis demonstration",
+      "likes": 0,
+      "comments": 0,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "unknown",
+      "hashtags": [],
+      "mentions": [],
+      "data_source": "generated_demo",
+      "note": "This is demonstration data - real post metrics require Instagram login"
+    }
+  ],
+  "stories": [],
+  "total_fetched": 5,
+  "data_limitations": {
+    "real_data": [
+      "followers",
+      "biography",
+      "posts_count",
+      "profile_picture"
+    ],
+    "unavailable_data": [
+      "post_likes",
+      "post_comments",
+      "post_captions",
+      "hashtags",
+      "post_media"
+    ],
+    "reason": "Instagram requires login for detailed post data",
+    "demo_data_generated": true
+  },
+  "metadata": {
+    "platform": "instagram",
+    "username": "zubair.ahmed.09",
+    "timestamp": "20250906_054053",
+    "fetched_at": "2025-09-06T05:40:53.938406"
+  }
+}

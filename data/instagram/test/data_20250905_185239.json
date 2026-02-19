@@ -1,0 +1,40 @@
+{
+  "profile": {
+    "username": "test",
+    "full_name": "Login",
+    "biography": "",
+    "followers": 0,
+    "followees": 0,
+    "posts_count": 0,
+    "is_verified": false,
+    "is_private": false,
+    "external_url": "",
+    "profile_pic_url": ""
+  },
+  "posts": [],
+  "stories": [],
+  "total_fetched": 0,
+  "data_limitations": {
+    "real_data": [
+      "followers",
+      "biography",
+      "posts_count",
+      "profile_picture"
+    ],
+    "unavailable_data": [
+      "post_likes",
+      "post_comments",
+      "post_captions",
+      "hashtags",
+      "post_media"
+    ],
+    "reason": "Instagram requires login for detailed post data",
+    "demo_data_generated": false
+  },
+  "metadata": {
+    "platform": "instagram",
+    "username": "test",
+    "timestamp": "20250905_185239",
+    "fetched_at": "2025-09-05T18:52:39.795118"
+  }
+}

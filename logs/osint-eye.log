@@ -1,0 +1,297 @@
+2025-09-05 11:47:54,458 - osint-eye - INFO - Generated demo tweet 1/5
+2025-09-05 11:47:54,458 - osint-eye - INFO - Generated demo tweet 2/5
+2025-09-05 11:47:54,458 - osint-eye - INFO - Generated demo tweet 3/5
+2025-09-05 11:47:54,458 - osint-eye - INFO - Generated demo tweet 4/5
+2025-09-05 11:47:54,458 - osint-eye - INFO - Generated demo tweet 5/5
+2025-09-05 11:49:25,945 - osint-eye - ERROR - Error fetching Instagram data for nasa: JSON Query to graphql/query: 401 Unauthorized - "fail" status, message "Please wait a few minutes before you try again." when accessing https://www.instagram.com/graphql/query?variables=%7B%22data%22%3A%7B%22count%22%3A12%2C%22include_relationship_info%22%3Atrue%2C%22latest_besties_reel_media%22%3Atrue%2C%22latest_reel_media%22%3Atrue%7D%2C%22username%22%3A%22nasa%22%2C%22__relay_internal__pv__PolarisFeedShareMenurelayprovider%22%3Afalse%7D&doc_id=7898261790222653&server_timestamps=true
+2025-09-05 11:51:06,658 - osint-eye - INFO - Fetching Instagram data for @who_is_the_black_hat (demo mode)
+2025-09-05 11:51:06,667 - osint-eye - INFO - Generated demo post 1/5
+2025-09-05 11:51:06,667 - osint-eye - INFO - Generated demo post 2/5
+2025-09-05 11:51:06,667 - osint-eye - INFO - Generated demo post 3/5
+2025-09-05 11:51:06,667 - osint-eye - INFO - Generated demo post 4/5
+2025-09-05 11:51:06,667 - osint-eye - INFO - Generated demo post 5/5
+2025-09-05 11:51:06,815 - osint-eye - INFO - Fetching Instagram data for @demo_user (demo mode)
+2025-09-05 11:51:06,816 - osint-eye - INFO - Generated demo post 1/5
+2025-09-05 11:51:06,816 - osint-eye - INFO - Generated demo post 2/5
+2025-09-05 11:51:06,816 - osint-eye - INFO - Generated demo post 3/5
+2025-09-05 11:51:06,816 - osint-eye - INFO - Generated demo post 4/5
+2025-09-05 11:51:06,816 - osint-eye - INFO - Generated demo post 5/5
+2025-09-05 11:54:51,565 - osint-eye - INFO - Fetching real Instagram data for @who_is_the_black_hat
+2025-09-05 11:54:54,676 - osint-eye - WARNING - Profile @who_is_the_black_hat is private
+2025-09-05 11:55:26,274 - osint-eye - INFO - Fetching real Instagram data for @cristiano
+2025-09-05 11:55:42,069 - osint-eye - ERROR - Error fetching Instagram data for cristiano: JSON Query to graphql/query: 401 Unauthorized - "fail" status, message "Please wait a few minutes before you try again." when accessing https://www.instagram.com/graphql/query?variables=%7B%22data%22%3A%7B%22count%22%3A12%2C%22include_relationship_info%22%3Atrue%2C%22latest_besties_reel_media%22%3Atrue%2C%22latest_reel_media%22%3Atrue%7D%2C%22username%22%3A%22cristiano%22%2C%22__relay_internal__pv__PolarisFeedShareMenurelayprovider%22%3Afalse%7D&doc_id=7898261790222653&server_timestamps=true
+2025-09-05 11:56:36,301 - osint-eye - INFO - Fetching real Instagram data for @who_is_the_black_hat
+2025-09-05 11:56:40,551 - osint-eye - WARNING - Profile @who_is_the_black_hat is private
+2025-09-05 11:56:41,252 - osint-eye - INFO - Fetching real Instagram data for @cristiano
+2025-09-05 11:58:40,733 - osint-eye - INFO - Fetching real Instagram data for @cristiano
+2025-09-05 11:59:53,432 - osint-eye - INFO - Fetching real Instagram data for @who_is_the_black_hat
+2025-09-05 12:00:16,948 - osint-eye - INFO - Fetching real Instagram data for @who_is_the_black_hat
+2025-09-05 12:00:34,986 - osint-eye - INFO - Fetching real Instagram data for @cristiano
+2025-09-05 12:02:37,382 - osint-eye - INFO - Fetching real Instagram data for @cristiano
+2025-09-05 12:02:37,975 - osint-eye - INFO - Title found: Instagram
+2025-09-05 12:02:37,976 - osint-eye - INFO - Meta tag found: False
+2025-09-05 12:02:37,976 - osint-eye - WARNING - No meta description found
+2025-09-05 12:03:24,894 - osint-eye - INFO - Fetching real Instagram data for @who_is_the_black_hat
+2025-09-05 12:03:25,682 - osint-eye - INFO - Title found: Instagram
+2025-09-05 12:03:25,683 - osint-eye - INFO - Meta tag found: False
+2025-09-05 12:03:25,683 - osint-eye - WARNING - No meta description found
+2025-09-05 12:04:09,450 - osint-eye - INFO - Fetching real Instagram data for @cristiano
+2025-09-05 12:04:09,688 - osint-eye - INFO - Fetching real Instagram data for @who_is_the_black_hat
+2025-09-05 12:04:13,507 - osint-eye - WARNING - Direct access returned limited data
+2025-09-05 12:04:13,699 - osint-eye - WARNING - Direct access returned limited data
+2025-09-05 12:04:14,416 - osint-eye - INFO - Page title: ‎سلطان صلاح الدین‎ (@who_is_the_black_hat) • Instagram photos and videos
+2025-09-05 12:04:14,417 - osint-eye - INFO - Meta description found: 93 Followers, 124 Following, 0 Posts - ‎سلطان صلاح الدین (@who_is_the_black_hat)‎ on Instagram: "[SV...
+2025-09-05 12:04:14,421 - osint-eye - INFO - Successfully extracted data from mobile access
+2025-09-05 12:04:14,635 - osint-eye - INFO - Page title: Cristiano Ronaldo (@cristiano) • Instagram photos and videos
+2025-09-05 12:04:14,636 - osint-eye - INFO - Meta description found: 664M Followers, 623 Following, 3,932 Posts - Cristiano Ronaldo (@cristiano) on Instagram: "SIUUUbscr...
+2025-09-05 12:04:14,637 - osint-eye - INFO - Successfully extracted data from mobile access
+2025-09-05 12:05:05,924 - osint-eye - INFO - Fetching real Instagram data for @who_is_the_black_hat
+2025-09-05 12:05:10,913 - osint-eye - WARNING - Direct access returned limited data
+2025-09-05 12:05:11,872 - osint-eye - INFO - Page title: ‎سلطان صلاح الدین‎ (@who_is_the_black_hat) • Instagram photos and videos
+2025-09-05 12:05:11,873 - osint-eye - INFO - Meta description found: 93 Followers, 124 Following, 0 Posts - ‎سلطان صلاح الدین (@who_is_the_black_hat)‎ on Instagram: "[SV...
+2025-09-05 12:05:11,874 - osint-eye - INFO - Successfully extracted data from mobile access
+2025-09-05 12:06:10,140 - osint-eye - INFO - Fetching real Instagram data for @who_is_the_black_hat
+2025-09-05 12:06:15,910 - osint-eye - WARNING - Direct access returned limited data
+2025-09-05 12:06:16,623 - osint-eye - INFO - Page title: ‎سلطان صلاح الدین‎ (@who_is_the_black_hat) • Instagram photos and videos
+2025-09-05 12:06:16,624 - osint-eye - INFO - Meta description found: 93 Followers, 124 Following, 0 Posts - ‎سلطان صلاح الدین (@who_is_the_black_hat)‎ on Instagram: "[SV...
+2025-09-05 12:06:16,625 - osint-eye - INFO - Successfully extracted data from mobile access
+2025-09-05 12:07:38,487 - osint-eye - INFO - Fetching real YouTube data for @mrbeast
+2025-09-05 12:08:07,050 - osint-eye - INFO - Fetching real Twitter data for @elonmusk
+2025-09-05 12:09:10,010 - osint-eye - INFO - Fetching real TikTok data for @charlidamelio
+2025-09-05 12:10:23,311 - osint-eye - INFO - Fetching real Instagram data for @cristiano
+2025-09-05 12:10:31,180 - osint-eye - WARNING - Direct access returned limited data
+2025-09-05 12:10:32,388 - osint-eye - INFO - Page title: Cristiano Ronaldo (@cristiano) • Instagram photos and videos
+2025-09-05 12:10:32,389 - osint-eye - INFO - Meta description found: 664M Followers, 623 Following, 3,932 Posts - Cristiano Ronaldo (@cristiano) on Instagram: "SIUUUbscr...
+2025-09-05 12:10:32,395 - osint-eye - INFO - Successfully extracted data from mobile access
+2025-09-05 12:10:54,893 - osint-eye - INFO - Fetching real Instagram data for @who_is_the_black_hat
+2025-09-05 12:10:59,082 - osint-eye - WARNING - Direct access returned limited data
+2025-09-05 12:10:59,837 - osint-eye - INFO - Page title: ‎سلطان صلاح الدین‎ (@who_is_the_black_hat) • Instagram photos and videos
+2025-09-05 12:10:59,839 - osint-eye - INFO - Meta description found: 93 Followers, 124 Following, 0 Posts - ‎سلطان صلاح الدین (@who_is_the_black_hat)‎ on Instagram: "[SV...
+2025-09-05 12:10:59,840 - osint-eye - INFO - Successfully extracted data from mobile access
+2025-09-05 12:12:26,699 - osint-eye - INFO - Fetching real Instagram data for @who_is_the_black_hat
+2025-09-05 12:12:28,236 - osint-eye - INFO - Generated 5 stories for who_is_the_black_hat
+2025-09-05 12:12:29,172 - osint-eye - INFO - Fetching real Instagram data for @cristiano
+2025-09-05 12:12:39,208 - osint-eye - ERROR - Error fetching Instagram data for cristiano: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /cristiano/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x71c4e51400>: Failed to resolve 'www.instagram.com' ([Errno -3] Temporary failure in name resolution)"))
+2025-09-05 12:12:39,210 - osint-eye - INFO - Generated 2 stories for cristiano
+2025-09-05 12:13:48,523 - osint-eye - INFO - Fetching real Instagram data for @test
+2025-09-05 12:13:48,531 - osint-eye - INFO - Fetching real Instagram data for @who_is_the_black_hat
+2025-09-05 12:13:55,235 - osint-eye - INFO - Generated 4 stories for test
+2025-09-05 12:13:55,278 - osint-eye - INFO - Generated 5 stories for who_is_the_black_hat
+2025-09-05 12:14:25,320 - osint-eye - INFO - Fetching real Instagram data for @who_is_the_black_hat
+2025-09-05 12:14:27,006 - osint-eye - INFO - Generated 5 stories for who_is_the_black_hat
+2025-09-05 12:15:49,204 - osint-eye - INFO - Fetching Instagram data for @cristiano
+2025-09-05 12:15:50,014 - osint-eye - INFO - Real extraction: 0 followers
+2025-09-05 12:16:56,606 - osint-eye - INFO - Fetching Instagram data for @test_user
+2025-09-05 12:16:56,616 - osint-eye - INFO - Fetching Instagram data for @who_is_the_black_hat
+2025-09-05 12:16:57,337 - osint-eye - INFO - Real extraction: 0 followers
+2025-09-05 12:16:57,380 - osint-eye - INFO - Real extraction: 0 followers
+2025-09-05 12:17:36,498 - osint-eye - INFO - Fetching Instagram data for @who_is_the_black_hat
+2025-09-05 12:17:37,482 - osint-eye - INFO - Real extraction: 0 followers
+2025-09-05 12:18:22,332 - osint-eye - INFO - Fetching Instagram data for @who_is_the_black_hat
+2025-09-05 12:18:23,199 - osint-eye - INFO - Real extraction: 0 followers
+2025-09-05 12:19:29,228 - osint-eye - INFO - Fetching Instagram data for @who_is_the_black_hat
+2025-09-05 12:19:30,276 - osint-eye - INFO - Real extraction: 0 followers
+2025-09-05 12:20:31,303 - osint-eye - INFO - Fetching Instagram data for @cristiano
+2025-09-05 12:21:05,682 - osint-eye - INFO - Fetching Instagram data for @who_is_the_black_hat
+2025-09-05 12:21:53,618 - osint-eye - INFO - Fetching Instagram data for @cristiano
+2025-09-05 12:21:53,621 - osint-eye - INFO - Fetching Instagram data for @who_is_the_black_hat
+2025-09-05 12:21:54,612 - osint-eye - INFO - Using real extracted data
+2025-09-05 12:21:54,614 - osint-eye - INFO - Using real extracted data
+2025-09-05 12:23:01,369 - osint-eye - INFO - Fetching Instagram data for @cristiano
+2025-09-05 12:23:01,372 - osint-eye - INFO - Fetching Instagram data for @who_is_the_black_hat
+2025-09-05 12:23:01,988 - osint-eye - WARNING - Real extraction failed, using fallback
+2025-09-05 12:23:02,215 - osint-eye - WARNING - Real extraction failed, using fallback
+2025-09-05 12:24:27,718 - osint-eye - INFO - Fetching Instagram data for @cristiano
+2025-09-05 12:24:27,720 - osint-eye - INFO - Fetching Instagram data for @who_is_the_black_hat
+2025-09-05 12:24:28,569 - osint-eye - INFO - Real data: 93 followers, bio: [SV] ∎ uid=0x1337(root) /dev/soul|grep
+2025-09-05 12:24:29,694 - osint-eye - INFO - Real data: 664000000 followers, bio: SIUUUbscribe to my Youtube Channel!
+2025-09-05 12:30:43,390 - osint-eye - INFO - Fetching Instagram data for @aminadaresaheb
+2025-09-05 12:30:44,540 - osint-eye - INFO - Real data: 314 followers, bio: silent heart, loud faith - left it to allha
+destiny 🍁 lead you where you meant to be 
+so enjoy life
+2025-09-05 12:34:50,271 - osint-eye - INFO - Fetching Instagram data for @bvrrx_.biee
+2025-09-05 12:34:56,762 - osint-eye - INFO - Real data: 22 followers, bio: ° introvert
+° be like the moon, even alone it doesn't stop       shining
+2025-09-05 13:14:01,858 - osint-eye - INFO - Fetching Instagram data for @who_is_the_black_hat
+2025-09-05 13:14:03,281 - osint-eye - INFO - Real data: 93 followers, bio: [SV] ∎ uid=0x1337(root) /dev/soul|grep
+2025-09-05 13:35:38,611 - osint-eye - INFO - Fetching Instagram data for @cristiano
+2025-09-05 13:35:39,804 - osint-eye - INFO - Real data: 664000000 followers, bio: SIUUUbscribe to my Youtube Channel!
+2025-09-05 13:35:39,808 - osint-eye - INFO - Profile has 3932 posts but couldn't extract them (private/restricted)
+2025-09-05 13:36:43,055 - osint-eye - INFO - Fetching Instagram data for @cristiano
+2025-09-05 13:36:43,820 - osint-eye - INFO - Real data: 664000000 followers, bio: SIUUUbscribe to my Youtube Channel!
+2025-09-05 13:36:43,824 - osint-eye - INFO - Profile has 3932 posts but couldn't extract them (private/restricted)
+2025-09-05 13:38:23,020 - osint-eye - INFO - Fetching Instagram data for @who_is_the_black_hat
+2025-09-05 13:38:24,271 - osint-eye - INFO - Real data: 93 followers, bio: [SV] ∎ uid=0x1337(root) /dev/soul|grep
+2025-09-05 14:06:42,888 - osint-eye - INFO - Fetching Instagram data for @aminadaresaheb
+2025-09-05 14:06:44,192 - osint-eye - INFO - Real data: 314 followers, bio: silent heart, loud faith - left it to allha
+destiny 🍁 lead you where you meant to be 
+so enjoy life
+2025-09-05 14:06:44,219 - osint-eye - INFO - Profile has 2 posts but couldn't extract them (private/restricted)
+2025-09-05 18:22:26,709 - osint-eye - INFO - Fetching Instagram data for @cristiano
+2025-09-05 18:22:27,520 - osint-eye - INFO - Real data: 664000000 followers, bio: 'SIUUUbscribe to my Youtube Channel!'
+2025-09-05 18:22:27,523 - osint-eye - INFO - Extracted 0 REAL videos and 0 REAL images from cristiano's profile
+2025-09-05 18:22:27,523 - osint-eye - INFO - 📋 INSTAGRAM LIMITATION: Post media requires login access
+2025-09-05 18:22:27,523 - osint-eye - INFO - ✅ Available: Profile pictures, follower counts, bio data
+2025-09-05 18:22:27,523 - osint-eye - INFO - ❌ Restricted: Post images, videos, stories (login required)
+2025-09-05 18:22:27,523 - osint-eye - INFO - ✅ Profile picture available for download
+2025-09-05 18:22:27,524 - osint-eye - INFO - Generated 3 posts with 1 media URLs
+2025-09-05 18:23:38,485 - osint-eye - INFO - Fetching Instagram data for @cristiano
+2025-09-05 18:23:39,118 - osint-eye - INFO - Real data: 664000000 followers, bio: 'SIUUUbscribe to my Youtube Channel!'
+2025-09-05 18:23:39,121 - osint-eye - INFO - Extracted 0 REAL videos and 0 REAL images from cristiano's profile
+2025-09-05 18:23:39,121 - osint-eye - INFO - 📋 INSTAGRAM LIMITATION: Post media requires login access
+2025-09-05 18:23:39,121 - osint-eye - INFO - ✅ Available: Profile pictures, follower counts, bio data
+2025-09-05 18:23:39,121 - osint-eye - INFO - ❌ Restricted: Post images, videos, stories (login required)
+2025-09-05 18:23:39,122 - osint-eye - INFO - ✅ Profile picture available for download
+2025-09-05 18:23:39,122 - osint-eye - INFO - Generated 2 posts with 1 media URLs
+2025-09-05 18:23:41,485 - osint-eye - INFO - Fetching Instagram data for @testuser123
+2025-09-05 18:23:42,117 - osint-eye - INFO - Real data: 7 followers, bio: ''
+2025-09-05 18:23:42,118 - osint-eye - INFO - No posts to analyze
+2025-09-05 18:27:06,751 - osint-eye - INFO - Fetching Instagram data for @cristiano
+2025-09-05 18:27:07,473 - osint-eye - INFO - Real data: 664000000 followers, bio: 'SIUUUbscribe to my Youtube Channel!'
+2025-09-05 18:27:07,476 - osint-eye - INFO - Extracted 0 REAL videos and 0 REAL images from cristiano's profile
+2025-09-05 18:27:07,477 - osint-eye - INFO - 📋 INSTAGRAM LIMITATION: Post media requires login access
+2025-09-05 18:27:07,477 - osint-eye - INFO - ✅ Available: Profile pictures, follower counts, bio data
+2025-09-05 18:27:07,477 - osint-eye - INFO - ❌ Restricted: Post images, videos, stories (login required)
+2025-09-05 18:27:07,478 - osint-eye - INFO - ✅ Profile picture available for download
+2025-09-05 18:27:07,478 - osint-eye - INFO - Generated 1 posts with 1 media URLs
+2025-09-05 18:28:38,266 - osint-eye - INFO - Fetching Instagram data for @cristiano
+2025-09-05 18:28:39,027 - osint-eye - INFO - Real data: 664000000 followers, bio: 'SIUUUbscribe to my Youtube Channel!'
+2025-09-05 18:28:39,028 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-05 18:28:39,028 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-05 18:28:39,028 - osint-eye - INFO -    • Followers: 664,000,000
+2025-09-05 18:28:39,028 - osint-eye - INFO -    • Bio: 'SIUUUbscribe to my Youtube Channel!'
+2025-09-05 18:28:39,029 - osint-eye - INFO -    • Posts Count: 3,932
+2025-09-05 18:28:39,029 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-05 18:28:39,029 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-05 18:28:39,029 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-05 18:28:39,029 - osint-eye - INFO -    • Real post captions
+2025-09-05 18:28:39,029 - osint-eye - INFO -    • Actual hashtags used
+2025-09-05 18:28:39,029 - osint-eye - INFO -    • Post images/videos
+2025-09-05 18:28:39,030 - osint-eye - INFO -    • Stories content
+2025-09-05 18:28:39,030 - osint-eye - INFO - ✅ Profile picture available for download
+2025-09-05 18:28:39,030 - osint-eye - INFO - 
+📝 GENERATING SAMPLE POST DATA (For Analysis Demo):
+2025-09-05 18:28:39,031 - osint-eye - INFO - ⚠️  Note: Post engagement data is ESTIMATED, not real Instagram data
+2025-09-05 18:28:39,031 - osint-eye - INFO - Generated 2 demo posts for analysis framework testing
+2025-09-05 18:33:30,712 - osint-eye - INFO - Fetching Instagram data for @cristiano
+2025-09-05 18:33:31,276 - osint-eye - INFO - Real data: 664000000 followers, bio: 'SIUUUbscribe to my Youtube Channel!'
+2025-09-05 18:33:31,276 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-05 18:33:31,277 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-05 18:33:31,277 - osint-eye - INFO -    • Followers: 664,000,000
+2025-09-05 18:33:31,277 - osint-eye - INFO -    • Bio: 'SIUUUbscribe to my Youtube Channel!'
+2025-09-05 18:33:31,277 - osint-eye - INFO -    • Posts Count: 3,932
+2025-09-05 18:33:31,277 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-05 18:33:31,277 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-05 18:33:31,277 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-05 18:33:31,277 - osint-eye - INFO -    • Real post captions
+2025-09-05 18:33:31,277 - osint-eye - INFO -    • Actual hashtags used
+2025-09-05 18:33:31,277 - osint-eye - INFO -    • Post images/videos
+2025-09-05 18:33:31,277 - osint-eye - INFO -    • Stories content
+2025-09-05 18:33:31,278 - osint-eye - INFO - ✅ Profile picture available for download
+2025-09-05 18:33:31,278 - osint-eye - INFO - 
+📝 GENERATING SAMPLE POST DATA (For Analysis Demo):
+2025-09-05 18:33:31,278 - osint-eye - INFO - ⚠️  Note: Post engagement data is ESTIMATED, not real Instagram data
+2025-09-05 18:33:31,289 - osint-eye - INFO - Created download directory: images/cristiano
+2025-09-05 18:33:31,289 - osint-eye - INFO - Downloading media 1/1: https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?...
+2025-09-05 18:33:31,339 - osint-eye - INFO - Response status: 200
+2025-09-05 18:33:31,351 - osint-eye - INFO - ✅ Downloaded IMAGE: images/cristiano/cristiano_media_1.jpg (3,719 bytes)
+2025-09-05 18:33:34,351 - osint-eye - INFO - Download complete: 1 files saved in images/cristiano
+2025-09-05 18:33:34,353 - osint-eye - INFO - Downloaded 1 media files
+2025-09-05 18:33:34,353 - osint-eye - INFO - Generated 2 demo posts for analysis framework testing
+2025-09-05 18:35:19,491 - osint-eye - INFO - Fetching Instagram data for @cristiano
+2025-09-05 18:35:20,136 - osint-eye - INFO - Real data: 664000000 followers, bio: 'SIUUUbscribe to my Youtube Channel!'
+2025-09-05 18:35:20,136 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-05 18:35:20,136 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-05 18:35:20,137 - osint-eye - INFO -    • Followers: 664,000,000
+2025-09-05 18:35:20,137 - osint-eye - INFO -    • Bio: 'SIUUUbscribe to my Youtube Channel!'
+2025-09-05 18:35:20,137 - osint-eye - INFO -    • Posts Count: 3,932
+2025-09-05 18:35:20,137 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-05 18:35:20,137 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-05 18:35:20,137 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-05 18:35:20,137 - osint-eye - INFO -    • Real post captions
+2025-09-05 18:35:20,137 - osint-eye - INFO -    • Actual hashtags used
+2025-09-05 18:35:20,137 - osint-eye - INFO -    • Post images/videos
+2025-09-05 18:35:20,138 - osint-eye - INFO -    • Stories content
+2025-09-05 18:35:20,138 - osint-eye - INFO - ✅ Profile picture available for download
+2025-09-05 18:35:20,138 - osint-eye - INFO - 
+📝 GENERATING SAMPLE POST DATA (For Analysis Demo):
+2025-09-05 18:35:20,138 - osint-eye - INFO - ⚠️  Note: Post engagement data is ESTIMATED, not real Instagram data
+2025-09-05 18:35:20,146 - osint-eye - INFO - Created download directory: /home/kali/Desktop/tools/osint-eye/images/cristiano
+2025-09-05 18:35:20,146 - osint-eye - INFO - Downloading media 1/1: https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?...
+2025-09-05 18:35:20,224 - osint-eye - INFO - Response status: 200
+2025-09-05 18:35:20,246 - osint-eye - INFO - ✅ Downloaded IMAGE: /home/kali/Desktop/tools/osint-eye/images/cristiano/cristiano_media_1.jpg (3,719 bytes)
+2025-09-05 18:35:23,247 - osint-eye - INFO - Download complete: 1 files saved in /home/kali/Desktop/tools/osint-eye/images/cristiano
+2025-09-05 18:35:23,248 - osint-eye - INFO - Downloaded 1 media files
+2025-09-05 18:35:23,249 - osint-eye - INFO - Generated 1 demo posts for analysis framework testing
+2025-09-05 18:37:14,132 - osint-eye - INFO - Fetching Instagram data for @cristiano
+2025-09-05 18:37:14,890 - osint-eye - INFO - Real data: 664000000 followers, bio: 'SIUUUbscribe to my Youtube Channel!'
+2025-09-05 18:37:14,890 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-05 18:37:14,891 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-05 18:37:14,891 - osint-eye - INFO -    • Followers: 664,000,000
+2025-09-05 18:37:14,891 - osint-eye - INFO -    • Bio: 'SIUUUbscribe to my Youtube Channel!'
+2025-09-05 18:37:14,891 - osint-eye - INFO -    • Posts Count: 3,932
+2025-09-05 18:37:14,891 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-05 18:37:14,891 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-05 18:37:14,891 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-05 18:37:14,891 - osint-eye - INFO -    • Real post captions
+2025-09-05 18:37:14,891 - osint-eye - INFO -    • Actual hashtags used
+2025-09-05 18:37:14,891 - osint-eye - INFO -    • Post images/videos
+2025-09-05 18:37:14,891 - osint-eye - INFO -    • Stories content
+2025-09-05 18:37:14,892 - osint-eye - INFO - ✅ Profile picture available for download
+2025-09-05 18:37:14,892 - osint-eye - INFO - 
+📝 GENERATING SAMPLE POST DATA (For Analysis Demo):
+2025-09-05 18:37:14,892 - osint-eye - INFO - ⚠️  Note: Post engagement data is ESTIMATED, not real Instagram data
+2025-09-05 18:37:14,899 - osint-eye - INFO - Created download directory: /home/kali/Desktop/tools/osint-eye/images/cristiano
+2025-09-05 18:37:14,899 - osint-eye - INFO - Downloading media 1/1: https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?...
+2025-09-05 18:37:14,936 - osint-eye - INFO - Response status: 200
+2025-09-05 18:37:14,947 - osint-eye - INFO - ✅ Downloaded IMAGE: /home/kali/Desktop/tools/osint-eye/images/cristiano/cristiano_media_1.jpg (3,719 bytes)
+2025-09-05 18:37:17,948 - osint-eye - INFO - Download complete: 1 files saved in /home/kali/Desktop/tools/osint-eye/images/cristiano
+2025-09-05 18:37:17,950 - osint-eye - INFO - Downloaded 1 media files
+2025-09-05 18:37:17,950 - osint-eye - INFO - Generated 1 demo posts for analysis framework testing
+2025-09-05 18:40:00,451 - osint-eye - INFO - Fetching Instagram data for @cristiano
+2025-09-05 18:40:01,180 - osint-eye - INFO - Real data: 664000000 followers, bio: 'SIUUUbscribe to my Youtube Channel!'
+2025-09-05 18:40:01,180 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-05 18:40:01,181 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-05 18:40:01,181 - osint-eye - INFO -    • Followers: 664,000,000
+2025-09-05 18:40:01,181 - osint-eye - INFO -    • Bio: 'SIUUUbscribe to my Youtube Channel!'
+2025-09-05 18:40:01,181 - osint-eye - INFO -    • Posts Count: 3,932
+2025-09-05 18:40:01,181 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-05 18:40:01,181 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-05 18:40:01,181 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-05 18:40:01,181 - osint-eye - INFO -    • Real post captions
+2025-09-05 18:40:01,182 - osint-eye - INFO -    • Actual hashtags used
+2025-09-05 18:40:01,182 - osint-eye - INFO -    • Post images/videos
+2025-09-05 18:40:01,182 - osint-eye - INFO -    • Stories content
+2025-09-05 18:40:01,182 - osint-eye - INFO - ✅ Profile picture available for download
+2025-09-05 18:40:01,182 - osint-eye - INFO - 
+📝 GENERATING SAMPLE POST DATA (For Analysis Demo):
+2025-09-05 18:40:01,182 - osint-eye - INFO - ⚠️  Note: Post engagement data is ESTIMATED, not real Instagram data
+2025-09-05 18:40:01,190 - osint-eye - INFO - Created download directory: /home/kali/Desktop/tools/osint-eye/images/cristiano
+2025-09-05 18:40:01,190 - osint-eye - INFO - Downloading media 1/1: https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?...
+2025-09-05 18:40:01,389 - osint-eye - INFO - Response status: 200
+2025-09-05 18:40:01,396 - osint-eye - INFO - ✅ Downloaded IMAGE: /home/kali/Desktop/tools/osint-eye/images/cristiano/cristiano_media_1.jpg (3,719 bytes)
+2025-09-05 18:40:04,397 - osint-eye - INFO - Download complete: 1 files saved in /home/kali/Desktop/tools/osint-eye/images/cristiano
+2025-09-05 18:40:04,405 - osint-eye - INFO - Downloaded 1 media files
+2025-09-05 18:40:04,407 - osint-eye - INFO - Generated 2 demo posts for analysis framework testing
+2025-09-05 18:40:31,746 - osint-eye - INFO - Analyzing profile with 2 posts
+2025-09-05 18:40:31,837 - osint-eye - INFO - Analysis complete: 2 posts, sentiment: 0.00
+2025-09-05 18:40:45,037 - osint-eye - INFO - Limited post extraction - account might be private
+2025-09-05 18:49:35,536 - osint-eye - INFO - 🖼️ Starting comprehensive image analysis: cristiano_media_1.jpg
+2025-09-05 18:49:37,673 - osint-eye - INFO - ✅ Image analysis complete. Authenticity: 85/100
+2025-09-05 18:49:49,420 - osint-eye - INFO - 📊 Generating interactive HTML report: profile
+2025-09-05 18:49:49,427 - osint-eye - INFO - ✅ Interactive report saved: reports/profile_report_20250905_184949.html
+2025-09-05 18:52:38,599 - osint-eye - INFO - Fetching Instagram data for @test
+2025-09-05 18:52:39,790 - osint-eye - INFO - Real data: 0 followers, bio: ''
+2025-09-05 18:52:39,791 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-05 18:52:39,791 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-05 18:52:39,791 - osint-eye - INFO -    • Followers: 0
+2025-09-05 18:52:39,791 - osint-eye - INFO -    • Bio: ''
+2025-09-05 18:52:39,791 - osint-eye - INFO -    • Posts Count: 0
+2025-09-05 18:52:39,791 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-05 18:52:39,791 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-05 18:52:39,791 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-05 18:52:39,791 - osint-eye - INFO -    • Real post captions
+2025-09-05 18:52:39,791 - osint-eye - INFO -    • Actual hashtags used
+2025-09-05 18:52:39,791 - osint-eye - INFO -    • Post images/videos
+2025-09-05 18:52:39,791 - osint-eye - INFO -    • Stories content
+2025-09-05 18:52:39,792 - osint-eye - INFO - No posts to analyze (account has 0 posts)

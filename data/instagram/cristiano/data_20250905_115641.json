@@ -1,0 +1,22 @@
+{
+  "profile": {
+    "username": "cristiano",
+    "full_name": "",
+    "biography": "",
+    "followers": 0,
+    "followees": 0,
+    "posts_count": 0,
+    "is_verified": false,
+    "is_private": false,
+    "external_url": "",
+    "profile_pic_url": ""
+  },
+  "posts": [],
+  "total_fetched": 0,
+  "metadata": {
+    "platform": "instagram",
+    "username": "cristiano",
+    "timestamp": "20250905_115641",
+    "fetched_at": "2025-09-05T11:56:41.919089"
+  }
+}

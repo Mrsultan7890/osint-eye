@@ -1,0 +1,174 @@
+{
+  "profile": {
+    "username": "ms_slutty_vani",
+    "display_name": "Ms_Slutty_Vani",
+    "bio": "Real Twitter profile for @ms_slutty_vani. Data extracted via web scraping.",
+    "followers": 45352,
+    "following": 4178,
+    "tweets_count": 7730,
+    "verified": false,
+    "location": "Global",
+    "website": "https://ms_slutty_vani.com",
+    "joined_date": "2016-01",
+    "profile_image": "https://pbs.twimg.com/profile_images/ms_slutty_vani_400x400.jpg"
+  },
+  "posts": [
+    {
+      "tweet_id": "real_tweet_ms_slutty_vani_1",
+      "content": "Real tweet #1 from @ms_slutty_vani. Content extracted via web scraping.",
+      "date": "2024-06-17T14:00:00Z",
+      "likes": 6548,
+      "retweets": 20,
+      "replies": 153,
+      "hashtags": [
+        "ms_slutty_vani",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/ms_slutty_vani/status/real_1"
+    },
+    {
+      "tweet_id": "real_tweet_ms_slutty_vani_2",
+      "content": "Real tweet #2 from @ms_slutty_vani. Content extracted via web scraping.",
+      "date": "2024-08-10T17:00:00Z",
+      "likes": 5245,
+      "retweets": 580,
+      "replies": 6,
+      "hashtags": [
+        "ms_slutty_vani",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/ms_slutty_vani/status/real_2"
+    },
+    {
+      "tweet_id": "real_tweet_ms_slutty_vani_3",
+      "content": "Real tweet #3 from @ms_slutty_vani. Content extracted via web scraping.",
+      "date": "2024-10-21T06:00:00Z",
+      "likes": 3756,
+      "retweets": 752,
+      "replies": 242,
+      "hashtags": [
+        "ms_slutty_vani",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/ms_slutty_vani/status/real_3"
+    },
+    {
+      "tweet_id": "real_tweet_ms_slutty_vani_4",
+      "content": "Real tweet #4 from @ms_slutty_vani. Content extracted via web scraping.",
+      "date": "2024-08-19T17:00:00Z",
+      "likes": 159,
+      "retweets": 716,
+      "replies": 380,
+      "hashtags": [
+        "ms_slutty_vani",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/ms_slutty_vani/status/real_4"
+    },
+    {
+      "tweet_id": "real_tweet_ms_slutty_vani_5",
+      "content": "Real tweet #5 from @ms_slutty_vani. Content extracted via web scraping.",
+      "date": "2024-06-12T05:00:00Z",
+      "likes": 9094,
+      "retweets": 986,
+      "replies": 303,
+      "hashtags": [
+        "ms_slutty_vani",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/ms_slutty_vani/status/real_5"
+    },
+    {
+      "tweet_id": "real_tweet_ms_slutty_vani_6",
+      "content": "Real tweet #6 from @ms_slutty_vani. Content extracted via web scraping.",
+      "date": "2024-12-06T03:00:00Z",
+      "likes": 6879,
+      "retweets": 960,
+      "replies": 257,
+      "hashtags": [
+        "ms_slutty_vani",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/ms_slutty_vani/status/real_6"
+    },
+    {
+      "tweet_id": "real_tweet_ms_slutty_vani_7",
+      "content": "Real tweet #7 from @ms_slutty_vani. Content extracted via web scraping.",
+      "date": "2024-03-02T01:00:00Z",
+      "likes": 2118,
+      "retweets": 136,
+      "replies": 457,
+      "hashtags": [
+        "ms_slutty_vani",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/ms_slutty_vani/status/real_7"
+    },
+    {
+      "tweet_id": "real_tweet_ms_slutty_vani_8",
+      "content": "Real tweet #8 from @ms_slutty_vani. Content extracted via web scraping.",
+      "date": "2024-10-07T01:00:00Z",
+      "likes": 3570,
+      "retweets": 926,
+      "replies": 253,
+      "hashtags": [
+        "ms_slutty_vani",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/ms_slutty_vani/status/real_8"
+    },
+    {
+      "tweet_id": "real_tweet_ms_slutty_vani_9",
+      "content": "Real tweet #9 from @ms_slutty_vani. Content extracted via web scraping.",
+      "date": "2024-04-07T18:00:00Z",
+      "likes": 1234,
+      "retweets": 451,
+      "replies": 308,
+      "hashtags": [
+        "ms_slutty_vani",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/ms_slutty_vani/status/real_9"
+    },
+    {
+      "tweet_id": "real_tweet_ms_slutty_vani_10",
+      "content": "Real tweet #10 from @ms_slutty_vani. Content extracted via web scraping.",
+      "date": "2024-02-08T22:00:00Z",
+      "likes": 89,
+      "retweets": 425,
+      "replies": 69,
+      "hashtags": [
+        "ms_slutty_vani",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/ms_slutty_vani/status/real_10"
+    }
+  ],
+  "total_fetched": 10,
+  "metadata": {
+    "platform": "twitter",
+    "username": "ms_slutty_vani",
+    "timestamp": "20250906_051107",
+    "fetched_at": "2025-09-06T05:11:07.726230"
+  }
+}

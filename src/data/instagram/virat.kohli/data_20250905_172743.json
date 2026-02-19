@@ -1,0 +1,154 @@
+{
+  "profile": {
+    "username": "virat.kohli",
+    "full_name": "Virat Kohli",
+    "biography": "Carpediem!",
+    "followers": 273000000,
+    "followees": 284,
+    "posts_count": 1037,
+    "is_verified": false,
+    "is_private": true,
+    "external_url": "",
+    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/331017149_3373809859551320_1963035851400324431_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=1&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=mc3vucH570kQ7kNvwHJNvVp&_nc_oc=AdncPOcGs2HFBs1Dj1J6jKhvODmSccZ21AS5XAoNW09F16Qf0gxWZgj4cqQLaYY0KDM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&oh=00_AfZ_yG7ClOxCVnrld-KdmJxZ_d0XwDR1iQ-QVo3AfjH8Kw&oe=68C0ED16"
+  },
+  "posts": [
+    {
+      "id": "sample_0",
+      "caption": "Sample post 1 for analysis",
+      "likes": 5909,
+      "comments": 70,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    },
+    {
+      "id": "sample_1",
+      "caption": "Sample post 2 for analysis",
+      "likes": 439,
+      "comments": 490,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    },
+    {
+      "id": "sample_2",
+      "caption": "Sample post 3 for analysis",
+      "likes": 3870,
+      "comments": 350,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    },
+    {
+      "id": "sample_3",
+      "caption": "Sample post 4 for analysis",
+      "likes": 8254,
+      "comments": 348,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    },
+    {
+      "id": "sample_4",
+      "caption": "Sample post 5 for analysis",
+      "likes": 957,
+      "comments": 82,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    },
+    {
+      "id": "sample_5",
+      "caption": "Sample post 6 for analysis",
+      "likes": 6550,
+      "comments": 444,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    },
+    {
+      "id": "sample_6",
+      "caption": "Sample post 7 for analysis",
+      "likes": 8165,
+      "comments": 328,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    },
+    {
+      "id": "sample_7",
+      "caption": "Sample post 8 for analysis",
+      "likes": 183,
+      "comments": 129,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    },
+    {
+      "id": "sample_8",
+      "caption": "Sample post 9 for analysis",
+      "likes": 5893,
+      "comments": 89,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    },
+    {
+      "id": "sample_9",
+      "caption": "Sample post 10 for analysis",
+      "likes": 4668,
+      "comments": 206,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    }
+  ],
+  "stories": [],
+  "total_fetched": 10,
+  "metadata": {
+    "platform": "instagram",
+    "username": "virat.kohli",
+    "timestamp": "20250905_172743",
+    "fetched_at": "2025-09-05T17:27:43.278315"
+  }
+}

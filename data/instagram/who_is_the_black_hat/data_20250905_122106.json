@@ -1,0 +1,129 @@
+{
+  "profile": {
+    "username": "who_is_the_black_hat",
+    "full_name": "Who_Is_The_Black_Hat",
+    "biography": "Profile for @who_is_the_black_hat",
+    "followers": 63139,
+    "followees": 1651,
+    "posts_count": 1739,
+    "is_verified": false,
+    "is_private": false,
+    "external_url": "",
+    "profile_pic_url": ""
+  },
+  "posts": [
+    {
+      "shortcode": "who_is_the_black_hat_1",
+      "caption": "Post #1 from @who_is_the_black_hat",
+      "date": "2024-08-07T22:00:00Z",
+      "likes": 67938,
+      "comments": 29379,
+      "is_video": true,
+      "url": "https://instagram.com/p/who_is_the_black_hat_1/",
+      "hashtags": [
+        "who_is_the_black_hat"
+      ],
+      "mentions": []
+    },
+    {
+      "shortcode": "who_is_the_black_hat_2",
+      "caption": "Post #2 from @who_is_the_black_hat",
+      "date": "2024-09-25T18:00:00Z",
+      "likes": 465547,
+      "comments": 11517,
+      "is_video": false,
+      "url": "https://instagram.com/p/who_is_the_black_hat_2/",
+      "hashtags": [
+        "who_is_the_black_hat"
+      ],
+      "mentions": []
+    },
+    {
+      "shortcode": "who_is_the_black_hat_3",
+      "caption": "Post #3 from @who_is_the_black_hat",
+      "date": "2024-04-07T06:00:00Z",
+      "likes": 787669,
+      "comments": 24138,
+      "is_video": true,
+      "url": "https://instagram.com/p/who_is_the_black_hat_3/",
+      "hashtags": [
+        "who_is_the_black_hat"
+      ],
+      "mentions": []
+    },
+    {
+      "shortcode": "who_is_the_black_hat_4",
+      "caption": "Post #4 from @who_is_the_black_hat",
+      "date": "2024-05-06T23:00:00Z",
+      "likes": 325784,
+      "comments": 33629,
+      "is_video": false,
+      "url": "https://instagram.com/p/who_is_the_black_hat_4/",
+      "hashtags": [
+        "who_is_the_black_hat"
+      ],
+      "mentions": []
+    },
+    {
+      "shortcode": "who_is_the_black_hat_5",
+      "caption": "Post #5 from @who_is_the_black_hat",
+      "date": "2024-07-10T14:00:00Z",
+      "likes": 868954,
+      "comments": 18835,
+      "is_video": true,
+      "url": "https://instagram.com/p/who_is_the_black_hat_5/",
+      "hashtags": [
+        "who_is_the_black_hat"
+      ],
+      "mentions": []
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "who_is_the_black_hat_story_1",
+      "type": "photo",
+      "timestamp": "2024-12-02T14:00:00Z",
+      "views": 46169,
+      "duration": null,
+      "has_music": true,
+      "location": "Riyadh",
+      "hashtags": [
+        "who_is_the_black_hat",
+        "story"
+      ]
+    },
+    {
+      "story_id": "who_is_the_black_hat_story_2",
+      "type": "photo",
+      "timestamp": "2024-04-07T23:00:00Z",
+      "views": 202304,
+      "duration": 9,
+      "has_music": true,
+      "location": "Manchester",
+      "hashtags": [
+        "who_is_the_black_hat",
+        "story"
+      ]
+    },
+    {
+      "story_id": "who_is_the_black_hat_story_3",
+      "type": "video",
+      "timestamp": "2024-07-10T14:00:00Z",
+      "views": 439477,
+      "duration": null,
+      "has_music": true,
+      "location": "Riyadh",
+      "hashtags": [
+        "who_is_the_black_hat",
+        "story"
+      ]
+    }
+  ],
+  "total_fetched": 5,
+  "metadata": {
+    "platform": "instagram",
+    "username": "who_is_the_black_hat",
+    "timestamp": "20250905_122106",
+    "fetched_at": "2025-09-05T12:21:06.727701"
+  }
+}

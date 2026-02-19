@@ -1,0 +1,116 @@
+{
+  "profile": {
+    "username": "aminadaresaheb",
+    "full_name": "Amina daresaheb patel",
+    "biography": "silent heart, loud faith - left it to allha\ndestiny 🍁 lead you where you meant to be \nso enjoy life",
+    "followers": 314,
+    "followees": 312,
+    "posts_count": 2,
+    "is_verified": false,
+    "is_private": false,
+    "external_url": "",
+    "profile_pic_url": ""
+  },
+  "posts": [
+    {
+      "shortcode": "aminadaresaheb_1",
+      "caption": "Post #1 from @aminadaresaheb",
+      "date": "2024-04-28T05:00:00Z",
+      "likes": 756464,
+      "comments": 1327,
+      "is_video": false,
+      "url": "https://instagram.com/p/aminadaresaheb_1/",
+      "hashtags": [
+        "aminadaresaheb"
+      ],
+      "mentions": []
+    },
+    {
+      "shortcode": "aminadaresaheb_2",
+      "caption": "Post #2 from @aminadaresaheb",
+      "date": "2024-09-10T17:00:00Z",
+      "likes": 812290,
+      "comments": 42289,
+      "is_video": true,
+      "url": "https://instagram.com/p/aminadaresaheb_2/",
+      "hashtags": [
+        "aminadaresaheb"
+      ],
+      "mentions": []
+    },
+    {
+      "shortcode": "aminadaresaheb_3",
+      "caption": "Post #3 from @aminadaresaheb",
+      "date": "2024-01-09T04:00:00Z",
+      "likes": 834091,
+      "comments": 1867,
+      "is_video": false,
+      "url": "https://instagram.com/p/aminadaresaheb_3/",
+      "hashtags": [
+        "aminadaresaheb"
+      ],
+      "mentions": []
+    },
+    {
+      "shortcode": "aminadaresaheb_4",
+      "caption": "Post #4 from @aminadaresaheb",
+      "date": "2024-01-23T21:00:00Z",
+      "likes": 806040,
+      "comments": 29250,
+      "is_video": true,
+      "url": "https://instagram.com/p/aminadaresaheb_4/",
+      "hashtags": [
+        "aminadaresaheb"
+      ],
+      "mentions": []
+    },
+    {
+      "shortcode": "aminadaresaheb_5",
+      "caption": "Post #5 from @aminadaresaheb",
+      "date": "2024-11-16T03:00:00Z",
+      "likes": 85966,
+      "comments": 23378,
+      "is_video": false,
+      "url": "https://instagram.com/p/aminadaresaheb_5/",
+      "hashtags": [
+        "aminadaresaheb"
+      ],
+      "mentions": []
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "aminadaresaheb_story_1",
+      "type": "photo",
+      "timestamp": "2024-12-01T17:00:00Z",
+      "views": 201380,
+      "duration": null,
+      "has_music": true,
+      "location": "",
+      "hashtags": [
+        "aminadaresaheb",
+        "story"
+      ]
+    },
+    {
+      "story_id": "aminadaresaheb_story_2",
+      "type": "video",
+      "timestamp": "2024-03-26T00:00:00Z",
+      "views": 245852,
+      "duration": 15,
+      "has_music": false,
+      "location": "",
+      "hashtags": [
+        "aminadaresaheb",
+        "story"
+      ]
+    }
+  ],
+  "total_fetched": 5,
+  "metadata": {
+    "platform": "instagram",
+    "username": "aminadaresaheb",
+    "timestamp": "20250905_123044",
+    "fetched_at": "2025-09-05T12:30:44.544063"
+  }
+}

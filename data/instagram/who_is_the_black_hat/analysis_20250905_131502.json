@@ -1,0 +1,49 @@
+{
+  "post_count": 0,
+  "profile_analysis": {
+    "bio_length": 38,
+    "has_external_url": false,
+    "is_verified": false,
+    "follower_ratio": 0.75,
+    "extracted_entities": {
+      "emails": [],
+      "phones": [],
+      "urls": []
+    }
+  },
+  "content_analysis": {
+    "total_characters": 0,
+    "avg_post_length": 0,
+    "language_detection": {},
+    "readability_score": 0
+  },
+  "sentiment_analysis": [],
+  "entity_extraction": {
+    "emails": [],
+    "phones": [],
+    "urls": [],
+    "mentions": []
+  },
+  "activity_analysis": {},
+  "hashtag_analysis": {
+    "total_hashtags": 0,
+    "unique_hashtags": 0,
+    "top_hashtags": [],
+    "hashtag_diversity": 0.0
+  },
+  "engagement_analysis": {
+    "avg_likes": 0,
+    "avg_comments": 0,
+    "total_likes": 0,
+    "total_comments": 0,
+    "engagement_rate": 0
+  },
+  "sentiment_score": 0,
+  "top_keywords": [],
+  "activity_peak": "Unknown",
+  "metadata": {
+    "platform": "instagram",
+    "username": "who_is_the_black_hat",
+    "analyzed_at": "2025-09-05T13:15:02.311855"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "profile": {
+    "username": "cristiano",
+    "full_name": "Cristiano Ronaldo",
+    "biography": "SIUUUbscribe to my Youtube Channel!",
+    "followers": 664000000,
+    "followees": 623,
+    "posts_count": 3932,
+    "is_verified": false,
+    "is_private": false,
+    "external_url": "",
+    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=1&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=s07J-X30NK0Q7kNvwG7ouRS&_nc_oc=Adm0ZRxLob-rdYZw0DLRWDBMg6m9CXiMlAxpaY5zpXvvrpwEahgKJTcCY-skNBGIoFk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&oh=00_AfapK3E0z4AwccDB5404pRkZuDi3pH0g-j2cb__Dju8K6w&oe=68C0F85E"
+  },
+  "posts": [
+    {
+      "id": "demo_post_cristiano_0",
+      "caption": "[DEMO] Sample post 1 for analysis demonstration",
+      "likes": 0,
+      "comments": 0,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "unknown",
+      "hashtags": [],
+      "mentions": [],
+      "data_source": "generated_demo",
+      "note": "This is demonstration data - real post metrics require Instagram login",
+      "local_media_path": "/home/kali/Desktop/tools/osint-eye/images/cristiano/cristiano_media_1.jpg"
+    },
+    {
+      "id": "demo_post_cristiano_1",
+      "caption": "[DEMO] Sample post 2 for analysis demonstration",
+      "likes": 0,
+      "comments": 0,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "unknown",
+      "hashtags": [],
+      "mentions": [],
+      "data_source": "generated_demo",
+      "note": "This is demonstration data - real post metrics require Instagram login"
+    }
+  ],
+  "stories": [],
+  "total_fetched": 2,
+  "data_limitations": {
+    "real_data": [
+      "followers",
+      "biography",
+      "posts_count",
+      "profile_picture"
+    ],
+    "unavailable_data": [
+      "post_likes",
+      "post_comments",
+      "post_captions",
+      "hashtags",
+      "post_media"
+    ],
+    "reason": "Instagram requires login for detailed post data",
+    "demo_data_generated": true
+  },
+  "metadata": {
+    "platform": "instagram",
+    "username": "cristiano",
+    "timestamp": "20250905_184004",
+    "fetched_at": "2025-09-05T18:40:04.421897"
+  }
+}

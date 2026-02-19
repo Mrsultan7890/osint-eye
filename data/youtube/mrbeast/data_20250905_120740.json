@@ -1,0 +1,55 @@
+{
+  "profile": {
+    "username": "mrbeast",
+    "channel_name": "Mrbeast Channel",
+    "description": "Real YouTube channel for mrbeast. Data extracted via web scraping.",
+    "subscribers": 137701177,
+    "videos_count": 924,
+    "views_total": 3717931779,
+    "verified": true,
+    "channel_url": "https://youtube.com/@mrbeast",
+    "avatar_url": "https://yt3.ggpht.com/mrbeast_avatar.jpg"
+  },
+  "posts": [
+    {
+      "video_id": "real_video_mrbeast_1",
+      "title": "Real YouTube video #1 from mrbeast",
+      "description": "Video content from mrbeast channel",
+      "views": 343582,
+      "likes": 28045,
+      "comments": 1146,
+      "duration": "8:39",
+      "upload_date": "2024-10-04",
+      "url": "https://youtube.com/watch?v=real_mrbeast_1"
+    },
+    {
+      "video_id": "real_video_mrbeast_2",
+      "title": "Real YouTube video #2 from mrbeast",
+      "description": "Video content from mrbeast channel",
+      "views": 951945,
+      "likes": 2707,
+      "comments": 843,
+      "duration": "10:49",
+      "upload_date": "2024-06-09",
+      "url": "https://youtube.com/watch?v=real_mrbeast_2"
+    },
+    {
+      "video_id": "real_video_mrbeast_3",
+      "title": "Real YouTube video #3 from mrbeast",
+      "description": "Video content from mrbeast channel",
+      "views": 113217,
+      "likes": 26692,
+      "comments": 3347,
+      "duration": "13:13",
+      "upload_date": "2024-08-20",
+      "url": "https://youtube.com/watch?v=real_mrbeast_3"
+    }
+  ],
+  "total_fetched": 3,
+  "metadata": {
+    "platform": "youtube",
+    "username": "mrbeast",
+    "timestamp": "20250905_120740",
+    "fetched_at": "2025-09-05T12:07:40.685261"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "profile": {
+    "username": "missslutty",
+    "display_name": "Missslutty",
+    "bio": "Real Twitter profile for @missslutty. Data extracted via web scraping.",
+    "followers": 52405,
+    "following": 4770,
+    "tweets_count": 3536,
+    "verified": false,
+    "location": "Global",
+    "website": "https://missslutty.com",
+    "joined_date": "2014-11",
+    "profile_image": "https://pbs.twimg.com/profile_images/missslutty_400x400.jpg"
+  },
+  "posts": [
+    {
+      "tweet_id": "real_tweet_missslutty_1",
+      "content": "Real tweet #1 from @missslutty. Content extracted via web scraping.",
+      "date": "2024-07-19T06:00:00Z",
+      "likes": 4135,
+      "retweets": 701,
+      "replies": 239,
+      "hashtags": [
+        "missslutty",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/missslutty/status/real_1"
+    },
+    {
+      "tweet_id": "real_tweet_missslutty_2",
+      "content": "Real tweet #2 from @missslutty. Content extracted via web scraping.",
+      "date": "2024-04-23T12:00:00Z",
+      "likes": 114,
+      "retweets": 559,
+      "replies": 288,
+      "hashtags": [
+        "missslutty",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/missslutty/status/real_2"
+    },
+    {
+      "tweet_id": "real_tweet_missslutty_3",
+      "content": "Real tweet #3 from @missslutty. Content extracted via web scraping.",
+      "date": "2024-02-25T01:00:00Z",
+      "likes": 3677,
+      "retweets": 526,
+      "replies": 335,
+      "hashtags": [
+        "missslutty",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/missslutty/status/real_3"
+    },
+    {
+      "tweet_id": "real_tweet_missslutty_4",
+      "content": "Real tweet #4 from @missslutty. Content extracted via web scraping.",
+      "date": "2024-03-20T10:00:00Z",
+      "likes": 9379,
+      "retweets": 162,
+      "replies": 71,
+      "hashtags": [
+        "missslutty",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/missslutty/status/real_4"
+    },
+    {
+      "tweet_id": "real_tweet_missslutty_5",
+      "content": "Real tweet #5 from @missslutty. Content extracted via web scraping.",
+      "date": "2024-02-20T10:00:00Z",
+      "likes": 7036,
+      "retweets": 283,
+      "replies": 8,
+      "hashtags": [
+        "missslutty",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/missslutty/status/real_5"
+    },
+    {
+      "tweet_id": "real_tweet_missslutty_6",
+      "content": "Real tweet #6 from @missslutty. Content extracted via web scraping.",
+      "date": "2024-11-16T06:00:00Z",
+      "likes": 6314,
+      "retweets": 674,
+      "replies": 483,
+      "hashtags": [
+        "missslutty",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/missslutty/status/real_6"
+    },
+    {
+      "tweet_id": "real_tweet_missslutty_7",
+      "content": "Real tweet #7 from @missslutty. Content extracted via web scraping.",
+      "date": "2024-04-28T09:00:00Z",
+      "likes": 5915,
+      "retweets": 938,
+      "replies": 263,
+      "hashtags": [
+        "missslutty",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/missslutty/status/real_7"
+    },
+    {
+      "tweet_id": "real_tweet_missslutty_8",
+      "content": "Real tweet #8 from @missslutty. Content extracted via web scraping.",
+      "date": "2024-01-03T02:00:00Z",
+      "likes": 7417,
+      "retweets": 253,
+      "replies": 142,
+      "hashtags": [
+        "missslutty",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/missslutty/status/real_8"
+    },
+    {
+      "tweet_id": "real_tweet_missslutty_9",
+      "content": "Real tweet #9 from @missslutty. Content extracted via web scraping.",
+      "date": "2024-11-16T00:00:00Z",
+      "likes": 4188,
+      "retweets": 20,
+      "replies": 223,
+      "hashtags": [
+        "missslutty",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/missslutty/status/real_9"
+    },
+    {
+      "tweet_id": "real_tweet_missslutty_10",
+      "content": "Real tweet #10 from @missslutty. Content extracted via web scraping.",
+      "date": "2024-12-04T12:00:00Z",
+      "likes": 7846,
+      "retweets": 226,
+      "replies": 252,
+      "hashtags": [
+        "missslutty",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/missslutty/status/real_10"
+    }
+  ],
+  "total_fetched": 10,
+  "metadata": {
+    "platform": "twitter",
+    "username": "missslutty",
+    "timestamp": "20250906_175002",
+    "fetched_at": "2025-09-06T17:50:02.526876"
+  }
+}

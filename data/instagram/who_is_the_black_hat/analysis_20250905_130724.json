@@ -1,0 +1,231 @@
+{
+  "post_count": 5,
+  "profile_analysis": {
+    "bio_length": 38,
+    "has_external_url": false,
+    "is_verified": false,
+    "follower_ratio": 0.75,
+    "extracted_entities": {
+      "emails": [],
+      "phones": [],
+      "urls": []
+    }
+  },
+  "content_analysis": {
+    "total_characters": 174,
+    "avg_post_length": 34.8,
+    "language_detection": {},
+    "readability_score": 1.55
+  },
+  "sentiment_analysis": [
+    {
+      "post_id": "who_is_the_black_hat_1",
+      "polarity": 0.0,
+      "subjectivity": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "post_id": "who_is_the_black_hat_2",
+      "polarity": 0.0,
+      "subjectivity": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "post_id": "who_is_the_black_hat_3",
+      "polarity": 0.0,
+      "subjectivity": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "post_id": "who_is_the_black_hat_4",
+      "polarity": 0.0,
+      "subjectivity": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "post_id": "who_is_the_black_hat_5",
+      "polarity": 0.0,
+      "subjectivity": 0.0,
+      "sentiment_label": "neutral"
+    }
+  ],
+  "entity_extraction": {
+    "emails": [],
+    "phones": [],
+    "urls": [],
+    "mentions": []
+  },
+  "activity_analysis": {
+    "most_active_hour": 22,
+    "posts_by_hour": {
+      "22": 1,
+      "18": 1,
+      "6": 1,
+      "23": 1,
+      "14": 1
+    },
+    "posts_by_date": {
+      "2024-08-07": 1,
+      "2024-09-25": 1,
+      "2024-04-07": 1,
+      "2024-05-06": 1,
+      "2024-07-10": 1
+    },
+    "posting_frequency": 0.029239766081871343
+  },
+  "hashtag_analysis": {
+    "total_hashtags": 5,
+    "unique_hashtags": 1,
+    "top_hashtags": [
+      [
+        "who_is_the_black_hat",
+        5
+      ]
+    ],
+    "hashtag_diversity": 0.2
+  },
+  "engagement_analysis": {
+    "avg_likes": 503178.4,
+    "avg_comments": 23499.6,
+    "total_likes": 2515892,
+    "total_comments": 117498,
+    "engagement_rate": 526678.0
+  },
+  "sentiment_score": 0.0,
+  "top_keywords": [
+    "post",
+    "from",
+    "who_is_the_black_hat"
+  ],
+  "activity_peak": "Evening",
+  "behavioral_analysis": {
+    "comprehensive_profile": {
+      "personality_traits": {
+        "extroversion": 0.0,
+        "neuroticism": 0.0,
+        "openness": 0.0,
+        "conscientiousness": 0.0,
+        "agreeableness": 0.0
+      },
+      "lifestyle_profile": {
+        "health_conscious": 0.0,
+        "tech_savvy": 0.0,
+        "travel_enthusiast": 0.0,
+        "foodie": 0.0,
+        "career_focused": 0.0,
+        "family_oriented": 0.0
+      },
+      "communication_style": {
+        "avg_post_length": 34.8,
+        "avg_words_per_post": 4.0,
+        "avg_sentence_length": 20.0,
+        "exclamation_ratio": 0.0,
+        "question_ratio": 0.0,
+        "uppercase_usage": 0.0,
+        "emoji_usage": 0.0,
+        "formality_score": 0.0,
+        "communication_style": "mixed"
+      },
+      "emotional_profile": {
+        "average_sentiment": 0.0,
+        "sentiment_volatility": 0.0,
+        "emotional_stability": 1.0,
+        "dominant_emotion": "neutral",
+        "emotion_distribution": {
+          "neutral": 5
+        },
+        "emotional_range": 0.0
+      },
+      "social_behavior": {
+        "social_reach": 0,
+        "community_participation": 1,
+        "avg_engagement": 526678.0,
+        "follower_ratio": 0,
+        "social_activity_level": 1.0,
+        "interaction_style": "balanced"
+      },
+      "routine_patterns": {
+        "most_active_hour": 22,
+        "most_active_day": 2,
+        "posting_consistency": 0.5026175309542547,
+        "time_distribution": {
+          "22": 1,
+          "18": 1,
+          "6": 1,
+          "23": 1,
+          "14": 1
+        },
+        "day_distribution": {
+          "2": 3,
+          "6": 1,
+          "0": 1
+        },
+        "routine_type": "night_routine"
+      },
+      "risk_profile": {
+        "risk_indicators": {
+          "impulsivity": 0.0,
+          "aggression": 0.0,
+          "isolation": 0.0,
+          "instability": 0.0
+        },
+        "overall_risk_score": 0.0,
+        "risk_level": "minimal",
+        "primary_risk_factor": null
+      },
+      "behavioral_insights": [
+        "Shows consistent emotional stability"
+      ],
+      "profile_completeness": 0.4222222222222222
+    },
+    "behavior_prediction": {
+      "predictions": {
+        "activity_prediction": "likely_to_increase",
+        "sentiment_prediction": "sentiment_likely_stable",
+        "engagement_prediction": "engagement_likely_to_decline",
+        "content_prediction": [
+          "similar_to_current_themes"
+        ],
+        "risk_prediction": "low_risk_of_escalation"
+      },
+      "confidence_score": 0.4,
+      "trend_analysis": {
+        "activity_trend": {
+          "trend_direction": "increasing",
+          "trend_strength": 1.6539631495204777e-17
+        },
+        "sentiment_trend": {
+          "trend_direction": "stable",
+          "trend_strength": 0.0,
+          "current_sentiment": 0.0
+        },
+        "engagement_trend": {
+          "trend_direction": "decreasing",
+          "trend_strength": 93158.19999999995,
+          "current_engagement": 477064
+        }
+      }
+    },
+    "influence_patterns": {
+      "influence_techniques": {
+        "authority": 0.0,
+        "social_proof": 0.0,
+        "reciprocity": 0.0,
+        "commitment": 0.0,
+        "liking": 0.0,
+        "scarcity": 0.0
+      },
+      "overall_influence_score": 0.0,
+      "primary_influence_method": "authority",
+      "persuasion_style": "non_persuasive"
+    },
+    "behavioral_anomalies": {
+      "error": "Insufficient data for anomaly detection"
+    }
+  },
+  "metadata": {
+    "platform": "instagram",
+    "username": "who_is_the_black_hat",
+    "analyzed_at": "2025-09-05T13:07:24.136508"
+  }
+}

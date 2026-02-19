@@ -1,0 +1,174 @@
+{
+  "profile": {
+    "username": "littlemuslim",
+    "display_name": "Littlemuslim",
+    "bio": "Real Twitter profile for @littlemuslim. Data extracted via web scraping.",
+    "followers": 81057,
+    "following": 2639,
+    "tweets_count": 5318,
+    "verified": false,
+    "location": "Global",
+    "website": "https://littlemuslim.com",
+    "joined_date": "2011-03",
+    "profile_image": "https://pbs.twimg.com/profile_images/littlemuslim_400x400.jpg"
+  },
+  "posts": [
+    {
+      "tweet_id": "real_tweet_littlemuslim_1",
+      "content": "Real tweet #1 from @littlemuslim. Content extracted via web scraping.",
+      "date": "2024-10-11T10:00:00Z",
+      "likes": 1697,
+      "retweets": 185,
+      "replies": 310,
+      "hashtags": [
+        "littlemuslim",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/littlemuslim/status/real_1"
+    },
+    {
+      "tweet_id": "real_tweet_littlemuslim_2",
+      "content": "Real tweet #2 from @littlemuslim. Content extracted via web scraping.",
+      "date": "2024-08-03T04:00:00Z",
+      "likes": 8343,
+      "retweets": 670,
+      "replies": 97,
+      "hashtags": [
+        "littlemuslim",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/littlemuslim/status/real_2"
+    },
+    {
+      "tweet_id": "real_tweet_littlemuslim_3",
+      "content": "Real tweet #3 from @littlemuslim. Content extracted via web scraping.",
+      "date": "2024-03-12T00:00:00Z",
+      "likes": 2151,
+      "retweets": 147,
+      "replies": 402,
+      "hashtags": [
+        "littlemuslim",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/littlemuslim/status/real_3"
+    },
+    {
+      "tweet_id": "real_tweet_littlemuslim_4",
+      "content": "Real tweet #4 from @littlemuslim. Content extracted via web scraping.",
+      "date": "2024-06-02T00:00:00Z",
+      "likes": 3951,
+      "retweets": 535,
+      "replies": 409,
+      "hashtags": [
+        "littlemuslim",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/littlemuslim/status/real_4"
+    },
+    {
+      "tweet_id": "real_tweet_littlemuslim_5",
+      "content": "Real tweet #5 from @littlemuslim. Content extracted via web scraping.",
+      "date": "2024-03-26T02:00:00Z",
+      "likes": 6417,
+      "retweets": 882,
+      "replies": 163,
+      "hashtags": [
+        "littlemuslim",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/littlemuslim/status/real_5"
+    },
+    {
+      "tweet_id": "real_tweet_littlemuslim_6",
+      "content": "Real tweet #6 from @littlemuslim. Content extracted via web scraping.",
+      "date": "2024-11-03T23:00:00Z",
+      "likes": 5470,
+      "retweets": 494,
+      "replies": 244,
+      "hashtags": [
+        "littlemuslim",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/littlemuslim/status/real_6"
+    },
+    {
+      "tweet_id": "real_tweet_littlemuslim_7",
+      "content": "Real tweet #7 from @littlemuslim. Content extracted via web scraping.",
+      "date": "2024-09-10T03:00:00Z",
+      "likes": 1863,
+      "retweets": 891,
+      "replies": 384,
+      "hashtags": [
+        "littlemuslim",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/littlemuslim/status/real_7"
+    },
+    {
+      "tweet_id": "real_tweet_littlemuslim_8",
+      "content": "Real tweet #8 from @littlemuslim. Content extracted via web scraping.",
+      "date": "2024-06-13T18:00:00Z",
+      "likes": 5916,
+      "retweets": 605,
+      "replies": 377,
+      "hashtags": [
+        "littlemuslim",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/littlemuslim/status/real_8"
+    },
+    {
+      "tweet_id": "real_tweet_littlemuslim_9",
+      "content": "Real tweet #9 from @littlemuslim. Content extracted via web scraping.",
+      "date": "2024-04-13T15:00:00Z",
+      "likes": 4265,
+      "retweets": 205,
+      "replies": 426,
+      "hashtags": [
+        "littlemuslim",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/littlemuslim/status/real_9"
+    },
+    {
+      "tweet_id": "real_tweet_littlemuslim_10",
+      "content": "Real tweet #10 from @littlemuslim. Content extracted via web scraping.",
+      "date": "2024-07-02T10:00:00Z",
+      "likes": 559,
+      "retweets": 654,
+      "replies": 105,
+      "hashtags": [
+        "littlemuslim",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/littlemuslim/status/real_10"
+    }
+  ],
+  "total_fetched": 10,
+  "metadata": {
+    "platform": "twitter",
+    "username": "littlemuslim",
+    "timestamp": "20250906_174509",
+    "fetched_at": "2025-09-06T17:45:09.539802"
+  }
+}

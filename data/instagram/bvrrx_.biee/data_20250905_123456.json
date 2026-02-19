@@ -1,0 +1,129 @@
+{
+  "profile": {
+    "username": "bvrrx_.biee",
+    "full_name": "bie",
+    "biography": "° introvert\n° be like the moon, even alone it doesn't stop       shining",
+    "followers": 22,
+    "followees": 14,
+    "posts_count": 0,
+    "is_verified": false,
+    "is_private": false,
+    "external_url": "",
+    "profile_pic_url": ""
+  },
+  "posts": [
+    {
+      "shortcode": "bvrrx_.biee_1",
+      "caption": "Post #1 from @bvrrx_.biee",
+      "date": "2024-08-07T20:00:00Z",
+      "likes": 663162,
+      "comments": 5734,
+      "is_video": true,
+      "url": "https://instagram.com/p/bvrrx_.biee_1/",
+      "hashtags": [
+        "bvrrx_.biee"
+      ],
+      "mentions": []
+    },
+    {
+      "shortcode": "bvrrx_.biee_2",
+      "caption": "Post #2 from @bvrrx_.biee",
+      "date": "2024-12-13T09:00:00Z",
+      "likes": 829733,
+      "comments": 39112,
+      "is_video": false,
+      "url": "https://instagram.com/p/bvrrx_.biee_2/",
+      "hashtags": [
+        "bvrrx_.biee"
+      ],
+      "mentions": []
+    },
+    {
+      "shortcode": "bvrrx_.biee_3",
+      "caption": "Post #3 from @bvrrx_.biee",
+      "date": "2024-02-18T14:00:00Z",
+      "likes": 274300,
+      "comments": 27614,
+      "is_video": false,
+      "url": "https://instagram.com/p/bvrrx_.biee_3/",
+      "hashtags": [
+        "bvrrx_.biee"
+      ],
+      "mentions": []
+    },
+    {
+      "shortcode": "bvrrx_.biee_4",
+      "caption": "Post #4 from @bvrrx_.biee",
+      "date": "2024-12-04T19:00:00Z",
+      "likes": 33000,
+      "comments": 39638,
+      "is_video": false,
+      "url": "https://instagram.com/p/bvrrx_.biee_4/",
+      "hashtags": [
+        "bvrrx_.biee"
+      ],
+      "mentions": []
+    },
+    {
+      "shortcode": "bvrrx_.biee_5",
+      "caption": "Post #5 from @bvrrx_.biee",
+      "date": "2024-12-22T13:00:00Z",
+      "likes": 811678,
+      "comments": 6699,
+      "is_video": false,
+      "url": "https://instagram.com/p/bvrrx_.biee_5/",
+      "hashtags": [
+        "bvrrx_.biee"
+      ],
+      "mentions": []
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "bvrrx_.biee_story_1",
+      "type": "photo",
+      "timestamp": "2024-11-20T02:00:00Z",
+      "views": 10112,
+      "duration": null,
+      "has_music": false,
+      "location": "Riyadh",
+      "hashtags": [
+        "bvrrx_.biee",
+        "story"
+      ]
+    },
+    {
+      "story_id": "bvrrx_.biee_story_2",
+      "type": "photo",
+      "timestamp": "2024-09-15T08:00:00Z",
+      "views": 230113,
+      "duration": null,
+      "has_music": true,
+      "location": "",
+      "hashtags": [
+        "bvrrx_.biee",
+        "story"
+      ]
+    },
+    {
+      "story_id": "bvrrx_.biee_story_3",
+      "type": "video",
+      "timestamp": "2024-12-22T13:00:00Z",
+      "views": 410839,
+      "duration": 12,
+      "has_music": false,
+      "location": "Madrid",
+      "hashtags": [
+        "bvrrx_.biee",
+        "story"
+      ]
+    }
+  ],
+  "total_fetched": 5,
+  "metadata": {
+    "platform": "instagram",
+    "username": "bvrrx_.biee",
+    "timestamp": "20250905_123456",
+    "fetched_at": "2025-09-05T12:34:56.772104"
+  }
+}

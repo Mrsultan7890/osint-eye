@@ -1,0 +1,579 @@
+2025-09-05 12:01:06,035 - osint-eye - INFO - Fetching real Instagram data for @cristiano
+2025-09-05 12:20:59,899 - osint-eye - INFO - Extracted name: Cristiano Ronaldo
+2025-09-05 12:20:59,901 - osint-eye - INFO - Meta description: 664M Followers, 623 Following, 3,932 Posts - Cristiano Ronaldo (@cristiano) on Instagram: "SIUUUbscribe to my Youtube Channel!"
+2025-09-05 12:20:59,902 - osint-eye - INFO - Real followers: 664M -> 664000000
+2025-09-05 12:20:59,902 - osint-eye - INFO - Real following: 623 -> 623
+2025-09-05 12:20:59,902 - osint-eye - INFO - Real posts: 3,932 -> 3932
+2025-09-05 12:20:59,903 - osint-eye - INFO - Real bio: SIUUUbscribe to my Youtube Channel!
+2025-09-05 12:20:59,903 - osint-eye - INFO - Successfully extracted real Instagram data
+2025-09-05 17:05:31,200 - osint-eye - INFO - Fetching Instagram data for @mr.zamaznoy
+2025-09-05 17:05:32,447 - osint-eye - INFO - Real data: 592000 followers, bio: 🔍  Truth is hidden in plain sight. I just help you see it.
+Collabs: @i_maryia
+2025-09-05 17:05:32,450 - osint-eye - INFO - Profile has 233 posts but couldn't extract them (private/restricted)
+2025-09-05 17:11:55,803 - osint-eye - INFO - Fetching Instagram data for @mr.zamaznoy
+2025-09-05 17:11:57,276 - osint-eye - INFO - Real data: 592000 followers, bio: 🔍  Truth is hidden in plain sight. I just help you see it.
+Collabs: @i_maryia
+2025-09-05 17:11:57,280 - osint-eye - INFO - Profile has 233 posts but couldn't extract them (private/restricted)
+2025-09-05 17:18:06,594 - osint-eye - INFO - Fetching Instagram data for @mr.zamaznoy
+2025-09-05 17:18:07,988 - osint-eye - INFO - Real data: 592000 followers, bio: 🔍  Truth is hidden in plain sight. I just help you...
+2025-09-05 17:18:07,991 - osint-eye - INFO - Generated 5 sample posts for analysis
+2025-09-05 17:18:46,544 - osint-eye - INFO - Fetching Instagram data for @who_is_the_black_hat
+2025-09-05 17:18:47,581 - osint-eye - INFO - Real data: 93 followers, bio: [SV] ∎ uid=0x1337(root) /dev/soul|grep...
+2025-09-05 17:18:47,585 - osint-eye - INFO - No posts to analyze
+2025-09-05 17:23:59,103 - osint-eye - INFO - Fetching Instagram data for @cristiano
+2025-09-05 17:24:00,022 - osint-eye - INFO - Real data: 664000000 followers, bio: SIUUUbscribe to my Youtube Channel!...
+2025-09-05 17:24:00,023 - osint-eye - INFO - Found 0 media URLs
+2025-09-05 17:24:00,023 - osint-eye - INFO - Generated 10 posts with 0 media URLs
+2025-09-05 17:25:40,605 - osint-eye - INFO - Fetching Instagram data for @who_is_the_black_hat
+2025-09-05 17:25:43,282 - osint-eye - INFO - Real data: 93 followers, bio: [SV] ∎ uid=0x1337(root) /dev/soul|grep...
+2025-09-05 17:25:43,288 - osint-eye - INFO - No posts to analyze
+2025-09-05 17:27:42,402 - osint-eye - INFO - Fetching Instagram data for @virat.kohli
+2025-09-05 17:27:43,264 - osint-eye - INFO - Real data: 273000000 followers, bio: Carpediem!...
+2025-09-05 17:27:43,265 - osint-eye - INFO - Found 0 media URLs
+2025-09-05 17:27:43,266 - osint-eye - INFO - Generated 10 posts with 0 media URLs
+2025-09-05 17:28:21,442 - osint-eye - INFO - Analyzing profile with 10 posts
+2025-09-05 17:28:21,541 - osint-eye - INFO - Analysis complete: 10 posts, sentiment: 0.00
+2025-09-05 17:34:13,169 - osint-eye - INFO - Fetching Instagram data for @virat.kohli
+2025-09-05 17:34:16,016 - osint-eye - INFO - Real data: 273000000 followers, bio: 'Carpediem!'
+2025-09-05 17:34:16,029 - osint-eye - INFO - Found 0 media URLs
+2025-09-05 17:34:16,031 - osint-eye - INFO - Generated 10 posts with 0 media URLs
+2025-09-05 17:35:38,777 - osint-eye - INFO - Analyzing profile with 10 posts
+2025-09-05 17:35:38,873 - osint-eye - INFO - Analysis complete: 10 posts, sentiment: 0.14
+2025-09-05 17:37:44,140 - osint-eye - INFO - Fetching Instagram data for @mr.zamaznoy
+2025-09-05 17:37:44,945 - osint-eye - INFO - Real data: 592000 followers, bio: '🔍  Truth is hidden in plain sight. I just help you...'
+2025-09-05 17:37:44,951 - osint-eye - INFO - Found 0 media URLs
+2025-09-05 17:37:44,955 - osint-eye - INFO - Generated 10 posts with 0 media URLs
+2025-09-05 17:43:32,681 - osint-eye - INFO - Fetching Instagram data for @cristiano
+2025-09-05 17:43:33,496 - osint-eye - INFO - Real data: 664000000 followers, bio: 'SIUUUbscribe to my Youtube Channel!'
+2025-09-05 17:43:33,497 - osint-eye - INFO - Found meta image: https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_99435...
+2025-09-05 17:43:33,505 - osint-eye - INFO - Found 1 unique media URLs
+2025-09-05 17:43:33,515 - osint-eye - INFO - Created download directory: images/cristiano
+2025-09-05 17:43:33,515 - osint-eye - INFO - Downloading media 1/1: https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?...
+2025-09-05 17:43:33,645 - osint-eye - INFO - Response status: 200
+2025-09-05 17:43:33,647 - osint-eye - INFO - ✅ Downloaded: images/cristiano/cristiano_media_1.jpg (3,719 bytes)
+2025-09-05 17:43:36,647 - osint-eye - INFO - Download complete: 1 files saved in images/cristiano
+2025-09-05 17:43:36,652 - osint-eye - INFO - Downloaded 1 media files
+2025-09-05 17:43:36,654 - osint-eye - INFO - Generated 10 posts with 1 media URLs
+2025-09-05 17:45:05,534 - osint-eye - INFO - Fetching Instagram data for @virat.kohli
+2025-09-05 17:45:06,244 - osint-eye - INFO - Real data: 273000000 followers, bio: 'Carpediem!'
+2025-09-05 17:45:06,245 - osint-eye - INFO - Found meta image: https://scontent.cdninstagram.com/v/t51.2885-19/331017149_3373809859551320_19630...
+2025-09-05 17:45:06,251 - osint-eye - INFO - Found 1 unique media URLs
+2025-09-05 17:45:06,254 - osint-eye - INFO - Created download directory: images/virat.kohli
+2025-09-05 17:45:06,254 - osint-eye - INFO - Downloading media 1/1: https://scontent.cdninstagram.com/v/t51.2885-19/331017149_3373809859551320_1963035851400324431_n.jpg...
+2025-09-05 17:45:06,417 - osint-eye - INFO - Response status: 200
+2025-09-05 17:45:06,420 - osint-eye - INFO - ✅ Downloaded: images/virat.kohli/virat.kohli_media_1.jpg (3,319 bytes)
+2025-09-05 17:45:09,421 - osint-eye - INFO - Download complete: 1 files saved in images/virat.kohli
+2025-09-05 17:45:09,430 - osint-eye - INFO - Downloaded 1 media files
+2025-09-05 17:45:09,432 - osint-eye - INFO - Generated 10 posts with 1 media URLs
+2025-09-05 17:49:13,658 - osint-eye - INFO - Fetching Instagram data for @messi
+2025-09-05 17:49:14,209 - osint-eye - INFO - No posts to analyze
+2025-09-05 17:49:58,217 - osint-eye - INFO - Fetching Instagram data for @cristiano
+2025-09-05 17:49:59,099 - osint-eye - INFO - Real data: 664000000 followers, bio: 'SIUUUbscribe to my Youtube Channel!'
+2025-09-05 17:49:59,100 - osint-eye - INFO - Found meta image: https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_99435...
+2025-09-05 17:49:59,106 - osint-eye - INFO - Found 1 unique media URLs
+2025-09-05 17:49:59,108 - osint-eye - INFO - Created download directory: ../images/cristiano
+2025-09-05 17:49:59,108 - osint-eye - INFO - Downloading media 1/1: https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?...
+2025-09-05 17:49:59,179 - osint-eye - INFO - Response status: 200
+2025-09-05 17:49:59,188 - osint-eye - INFO - ✅ Downloaded: ../images/cristiano/cristiano_media_1.jpg (3,719 bytes)
+2025-09-05 17:50:02,189 - osint-eye - INFO - Download complete: 1 files saved in ../images/cristiano
+2025-09-05 17:50:02,194 - osint-eye - INFO - Downloaded 1 media files
+2025-09-05 17:50:02,196 - osint-eye - INFO - Generated 10 posts with 1 media URLs
+2025-09-05 17:52:16,480 - osint-eye - INFO - Fetching Instagram data for @aminadaresaheb
+2025-09-05 17:52:17,146 - osint-eye - INFO - Real data: 315 followers, bio: 'silent heart, loud faith - left it to allha
+destin...'
+2025-09-05 17:52:17,150 - osint-eye - INFO - Found meta image: https://scontent.cdninstagram.com/v/t51.82787-19/520721406_17956832771967414_707...
+2025-09-05 17:52:17,159 - osint-eye - INFO - Found 1 unique media URLs
+2025-09-05 17:52:17,169 - osint-eye - INFO - Created download directory: ../images/aminadaresaheb
+2025-09-05 17:52:17,176 - osint-eye - INFO - Downloading media 1/1: https://scontent.cdninstagram.com/v/t51.82787-19/520721406_17956832771967414_7072505691000690911_n.j...
+2025-09-05 17:52:17,330 - osint-eye - INFO - Response status: 200
+2025-09-05 17:52:17,339 - osint-eye - INFO - ✅ Downloaded: ../images/aminadaresaheb/aminadaresaheb_media_1.jpg (4,163 bytes)
+2025-09-05 17:52:20,344 - osint-eye - INFO - Download complete: 1 files saved in ../images/aminadaresaheb
+2025-09-05 17:52:20,355 - osint-eye - INFO - Downloaded 1 media files
+2025-09-05 17:52:20,360 - osint-eye - INFO - Generated 10 posts with 1 media URLs
+2025-09-05 17:53:18,469 - osint-eye - INFO - Fetching Instagram data for @aminadaresaheb
+2025-09-05 17:53:19,682 - osint-eye - INFO - Real data: 315 followers, bio: 'silent heart, loud faith - left it to allha
+destin...'
+2025-09-05 17:53:19,685 - osint-eye - INFO - Found meta image: https://scontent.cdninstagram.com/v/t51.82787-19/520721406_17956832771967414_707...
+2025-09-05 17:53:19,694 - osint-eye - INFO - Found 1 unique media URLs
+2025-09-05 17:53:19,710 - osint-eye - INFO - Created download directory: ../images/aminadaresaheb
+2025-09-05 17:53:19,715 - osint-eye - INFO - Downloading media 1/1: https://scontent.cdninstagram.com/v/t51.82787-19/520721406_17956832771967414_7072505691000690911_n.j...
+2025-09-05 17:53:19,788 - osint-eye - INFO - Response status: 200
+2025-09-05 17:53:19,793 - osint-eye - INFO - ✅ Downloaded: ../images/aminadaresaheb/aminadaresaheb_media_1.jpg (4,163 bytes)
+2025-09-05 17:53:22,797 - osint-eye - INFO - Download complete: 1 files saved in ../images/aminadaresaheb
+2025-09-05 17:53:22,812 - osint-eye - INFO - Downloaded 1 media files
+2025-09-05 17:53:22,817 - osint-eye - INFO - Generated 10 posts with 1 media URLs
+2025-09-05 17:58:11,719 - osint-eye - INFO - Fetching Instagram data for @cristiano
+2025-09-05 17:58:17,349 - osint-eye - INFO - Real data: 664000000 followers, bio: 'SIUUUbscribe to my Youtube Channel!'
+2025-09-05 17:58:17,350 - osint-eye - INFO - Found meta image: https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_99435...
+2025-09-05 17:58:17,356 - osint-eye - INFO - Found 0 videos and 1 images
+2025-09-05 17:58:17,364 - osint-eye - INFO - Created download directory: ../images/cristiano
+2025-09-05 17:58:17,365 - osint-eye - INFO - Downloading media 1/1: https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?...
+2025-09-05 17:58:17,432 - osint-eye - INFO - Response status: 200
+2025-09-05 17:58:17,447 - osint-eye - INFO - ✅ Downloaded IMAGE: ../images/cristiano/cristiano_media_1.jpg (3,719 bytes)
+2025-09-05 17:58:20,452 - osint-eye - INFO - Download complete: 1 files saved in ../images/cristiano
+2025-09-05 17:58:20,455 - osint-eye - INFO - Downloaded 1 media files
+2025-09-05 17:58:20,456 - osint-eye - INFO - Generated 10 posts with 1 media URLs
+2025-09-05 17:58:33,600 - osint-eye - INFO - Fetching Instagram data for @test_user_no_media
+2025-09-05 17:58:34,547 - osint-eye - INFO - No posts to analyze
+2025-09-05 18:00:47,522 - osint-eye - INFO - Fetching Instagram data for @test_video_user
+2025-09-05 18:00:48,332 - osint-eye - INFO - No posts to analyze
+2025-09-05 18:01:12,825 - osint-eye - INFO - Fetching Instagram data for @cristiano
+2025-09-05 18:01:14,411 - osint-eye - INFO - Real data: 664000000 followers, bio: 'SIUUUbscribe to my Youtube Channel!'
+2025-09-05 18:01:14,412 - osint-eye - INFO - Found meta image: https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_99435...
+2025-09-05 18:01:14,418 - osint-eye - INFO - Found 0 videos and 1 images
+2025-09-05 18:01:14,418 - osint-eye - INFO - Limited media found, adding sample videos for testing...
+2025-09-05 18:01:14,527 - osint-eye - INFO - Added sample video: https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4
+2025-09-05 18:01:15,118 - osint-eye - INFO - Added sample video: https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+2025-09-05 18:01:15,129 - osint-eye - INFO - Created download directory: ../images/cristiano
+2025-09-05 18:01:15,135 - osint-eye - INFO - Downloading media 1/2: https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?...
+2025-09-05 18:01:15,223 - osint-eye - INFO - Response status: 200
+2025-09-05 18:01:15,238 - osint-eye - INFO - ✅ Downloaded IMAGE: ../images/cristiano/cristiano_media_1.jpg (3,719 bytes)
+2025-09-05 18:01:18,239 - osint-eye - INFO - Downloading media 2/2: https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4...
+2025-09-05 18:01:18,361 - osint-eye - INFO - Response status: 200
+2025-09-05 18:01:19,734 - osint-eye - INFO - ✅ Downloaded VIDEO: ../images/cristiano/cristiano_media_2.mp4 (10,546,620 bytes)
+2025-09-05 18:01:22,734 - osint-eye - INFO - Download complete: 2 files saved in ../images/cristiano
+2025-09-05 18:01:22,740 - osint-eye - INFO - Downloaded 2 media files
+2025-09-05 18:01:22,741 - osint-eye - INFO - Generated 10 posts with 3 media URLs
+2025-09-05 18:04:02,671 - osint-eye - INFO - Fetching Instagram data for @cristiano
+2025-09-05 18:04:03,453 - osint-eye - INFO - Real data: 664000000 followers, bio: 'SIUUUbscribe to my Youtube Channel!'
+2025-09-05 18:04:03,458 - osint-eye - INFO - Extracted 0 REAL videos and 0 REAL images from cristiano's profile
+2025-09-05 18:04:03,459 - osint-eye - INFO - No real media found in profile - this profile may be private or have no posts
+2025-09-05 18:04:03,459 - osint-eye - INFO - Note: Real Instagram videos require login for full access
+2025-09-05 18:04:03,459 - osint-eye - INFO - Generated 10 posts with 0 media URLs
+2025-09-05 18:05:27,866 - osint-eye - INFO - Fetching Instagram data for @cristiano
+2025-09-05 18:05:30,016 - osint-eye - INFO - Real data: 664000000 followers, bio: 'SIUUUbscribe to my Youtube Channel!'
+2025-09-05 18:05:30,020 - osint-eye - INFO - Extracted 0 REAL videos and 0 REAL images from cristiano's profile
+2025-09-05 18:05:30,020 - osint-eye - INFO - 📋 INSTAGRAM LIMITATION: Post media requires login access
+2025-09-05 18:05:30,020 - osint-eye - INFO - ✅ Available: Profile pictures, follower counts, bio data
+2025-09-05 18:05:30,020 - osint-eye - INFO - ❌ Restricted: Post images, videos, stories (login required)
+2025-09-05 18:05:30,021 - osint-eye - INFO - ✅ Profile picture available for download
+2025-09-05 18:05:30,035 - osint-eye - INFO - Created download directory: ../images/cristiano
+2025-09-05 18:05:30,035 - osint-eye - INFO - Downloading media 1/1: https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?...
+2025-09-05 18:05:30,108 - osint-eye - INFO - Response status: 200
+2025-09-05 18:05:30,118 - osint-eye - INFO - ✅ Downloaded IMAGE: ../images/cristiano/cristiano_media_1.jpg (3,719 bytes)
+2025-09-05 18:05:33,118 - osint-eye - INFO - Download complete: 1 files saved in ../images/cristiano
+2025-09-05 18:05:33,125 - osint-eye - INFO - Downloaded 1 media files
+2025-09-05 18:05:33,127 - osint-eye - INFO - Generated 10 posts with 1 media URLs
+2025-09-05 18:08:40,099 - osint-eye - INFO - Fetching Instagram data for @aminadaresaheb
+2025-09-05 18:08:40,858 - osint-eye - INFO - Real data: 315 followers, bio: 'silent heart, loud faith - left it to allha
+destin'
+2025-09-05 18:08:40,865 - osint-eye - INFO - Extracted 0 REAL videos and 0 REAL images from aminadaresaheb's profile
+2025-09-05 18:08:40,868 - osint-eye - INFO - 📋 INSTAGRAM LIMITATION: Post media requires login access
+2025-09-05 18:08:40,871 - osint-eye - INFO - ✅ Available: Profile pictures, follower counts, bio data
+2025-09-05 18:08:40,874 - osint-eye - INFO - ❌ Restricted: Post images, videos, stories (login required)
+2025-09-05 18:08:40,877 - osint-eye - INFO - ✅ Profile picture available for download
+2025-09-05 18:08:40,888 - osint-eye - INFO - Created download directory: ../images/aminadaresaheb
+2025-09-05 18:08:40,891 - osint-eye - INFO - Downloading media 1/1: https://scontent.cdninstagram.com/v/t51.82787-19/520721406_17956832771967414_7072505691000690911_n.j...
+2025-09-05 18:08:41,003 - osint-eye - INFO - Response status: 200
+2025-09-05 18:08:41,015 - osint-eye - INFO - ✅ Downloaded IMAGE: ../images/aminadaresaheb/aminadaresaheb_media_1.jpg (4,163 bytes)
+2025-09-05 18:08:44,018 - osint-eye - INFO - Download complete: 1 files saved in ../images/aminadaresaheb
+2025-09-05 18:08:44,031 - osint-eye - INFO - Downloaded 1 media files
+2025-09-05 18:08:44,039 - osint-eye - INFO - Generated 10 posts with 1 media URLs
+2025-09-05 18:24:20,457 - osint-eye - INFO - Fetching Instagram data for @aminadaresaheb
+2025-09-05 18:24:21,293 - osint-eye - INFO - Real data: 315 followers, bio: 'silent heart, loud faith - left it to allha
+destin'
+2025-09-05 18:24:21,300 - osint-eye - INFO - Extracted 0 REAL videos and 0 REAL images from aminadaresaheb's profile
+2025-09-05 18:24:21,302 - osint-eye - INFO - 📋 INSTAGRAM LIMITATION: Post media requires login access
+2025-09-05 18:24:21,304 - osint-eye - INFO - ✅ Available: Profile pictures, follower counts, bio data
+2025-09-05 18:24:21,306 - osint-eye - INFO - ❌ Restricted: Post images, videos, stories (login required)
+2025-09-05 18:24:21,308 - osint-eye - INFO - ✅ Profile picture available for download
+2025-09-05 18:24:21,313 - osint-eye - INFO - Created download directory: ../images/aminadaresaheb
+2025-09-05 18:24:21,316 - osint-eye - INFO - Downloading media 1/1: https://scontent.cdninstagram.com/v/t51.82787-19/520721406_17956832771967414_7072505691000690911_n.j...
+2025-09-05 18:24:21,404 - osint-eye - INFO - Response status: 200
+2025-09-05 18:24:21,413 - osint-eye - INFO - ✅ Downloaded IMAGE: ../images/aminadaresaheb/aminadaresaheb_media_1.jpg (4,163 bytes)
+2025-09-05 18:24:24,417 - osint-eye - INFO - Download complete: 1 files saved in ../images/aminadaresaheb
+2025-09-05 18:24:24,428 - osint-eye - INFO - Downloaded 1 media files
+2025-09-05 18:24:24,435 - osint-eye - INFO - Generated 10 posts with 1 media URLs
+2025-09-05 18:29:31,762 - osint-eye - INFO - Fetching Instagram data for @aminadaresaheb
+2025-09-05 18:29:32,804 - osint-eye - INFO - Real data: 315 followers, bio: 'silent heart, loud faith - left it to allha
+destin'
+2025-09-05 18:29:32,809 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-05 18:29:32,812 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-05 18:29:32,816 - osint-eye - INFO -    • Followers: 315
+2025-09-05 18:29:32,819 - osint-eye - INFO -    • Bio: 'silent heart, loud faith - left it to allha
+destin'
+2025-09-05 18:29:32,821 - osint-eye - INFO -    • Posts Count: 2
+2025-09-05 18:29:32,823 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-05 18:29:32,825 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-05 18:29:32,827 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-05 18:29:32,829 - osint-eye - INFO -    • Real post captions
+2025-09-05 18:29:32,832 - osint-eye - INFO -    • Actual hashtags used
+2025-09-05 18:29:32,834 - osint-eye - INFO -    • Post images/videos
+2025-09-05 18:29:32,836 - osint-eye - INFO -    • Stories content
+2025-09-05 18:29:32,839 - osint-eye - INFO - ✅ Profile picture available for download
+2025-09-05 18:29:32,841 - osint-eye - INFO - 
+📝 GENERATING SAMPLE POST DATA (For Analysis Demo):
+2025-09-05 18:29:32,843 - osint-eye - INFO - ⚠️  Note: Post engagement data is ESTIMATED, not real Instagram data
+2025-09-05 18:29:32,853 - osint-eye - INFO - Created download directory: ../images/aminadaresaheb
+2025-09-05 18:29:32,856 - osint-eye - INFO - Downloading media 1/1: https://scontent.cdninstagram.com/v/t51.82787-19/520721406_17956832771967414_7072505691000690911_n.j...
+2025-09-05 18:29:32,998 - osint-eye - INFO - Response status: 200
+2025-09-05 18:29:33,011 - osint-eye - INFO - ✅ Downloaded IMAGE: ../images/aminadaresaheb/aminadaresaheb_media_1.jpg (4,163 bytes)
+2025-09-05 18:29:36,015 - osint-eye - INFO - Download complete: 1 files saved in ../images/aminadaresaheb
+2025-09-05 18:29:36,023 - osint-eye - INFO - Downloaded 1 media files (profile picture only)
+2025-09-05 18:29:36,027 - osint-eye - INFO - Generated 5 demo posts for analysis framework testing
+2025-09-05 18:29:49,335 - osint-eye - INFO - Fetching Instagram data for @aminadaresaheb
+2025-09-05 18:29:49,989 - osint-eye - INFO - Real data: 315 followers, bio: 'silent heart, loud faith - left it to allha
+destin'
+2025-09-05 18:29:49,992 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-05 18:29:49,998 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-05 18:29:50,001 - osint-eye - INFO -    • Followers: 315
+2025-09-05 18:29:50,004 - osint-eye - INFO -    • Bio: 'silent heart, loud faith - left it to allha
+destin'
+2025-09-05 18:29:50,007 - osint-eye - INFO -    • Posts Count: 2
+2025-09-05 18:29:50,014 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-05 18:29:50,017 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-05 18:29:50,019 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-05 18:29:50,022 - osint-eye - INFO -    • Real post captions
+2025-09-05 18:29:50,024 - osint-eye - INFO -    • Actual hashtags used
+2025-09-05 18:29:50,028 - osint-eye - INFO -    • Post images/videos
+2025-09-05 18:29:50,035 - osint-eye - INFO -    • Stories content
+2025-09-05 18:29:50,038 - osint-eye - INFO - ✅ Profile picture available for download
+2025-09-05 18:29:50,040 - osint-eye - INFO - 
+📝 GENERATING SAMPLE POST DATA (For Analysis Demo):
+2025-09-05 18:29:50,042 - osint-eye - INFO - ⚠️  Note: Post engagement data is ESTIMATED, not real Instagram data
+2025-09-05 18:29:50,049 - osint-eye - INFO - Created download directory: ../images/aminadaresaheb
+2025-09-05 18:29:50,063 - osint-eye - INFO - Downloading media 1/1: https://scontent.cdninstagram.com/v/t51.82787-19/520721406_17956832771967414_7072505691000690911_n.j...
+2025-09-05 18:29:50,131 - osint-eye - INFO - Response status: 200
+2025-09-05 18:29:50,140 - osint-eye - INFO - ✅ Downloaded IMAGE: ../images/aminadaresaheb/aminadaresaheb_media_1.jpg (4,163 bytes)
+2025-09-05 18:29:53,144 - osint-eye - INFO - Download complete: 1 files saved in ../images/aminadaresaheb
+2025-09-05 18:29:53,159 - osint-eye - INFO - Downloaded 1 media files (profile picture only)
+2025-09-05 18:29:53,175 - osint-eye - INFO - Generated 5 demo posts for analysis framework testing
+2025-09-05 18:34:15,182 - osint-eye - INFO - Fetching Instagram data for @aminadaresaheb
+2025-09-05 18:34:16,361 - osint-eye - INFO - Real data: 315 followers, bio: 'silent heart, loud faith - left it to allha
+destin'
+2025-09-05 18:34:16,364 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-05 18:34:16,367 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-05 18:34:16,370 - osint-eye - INFO -    • Followers: 315
+2025-09-05 18:34:16,374 - osint-eye - INFO -    • Bio: 'silent heart, loud faith - left it to allha
+destin'
+2025-09-05 18:34:16,378 - osint-eye - INFO -    • Posts Count: 2
+2025-09-05 18:34:16,381 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-05 18:34:16,384 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-05 18:34:16,389 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-05 18:34:16,392 - osint-eye - INFO -    • Real post captions
+2025-09-05 18:34:16,395 - osint-eye - INFO -    • Actual hashtags used
+2025-09-05 18:34:16,397 - osint-eye - INFO -    • Post images/videos
+2025-09-05 18:34:16,399 - osint-eye - INFO -    • Stories content
+2025-09-05 18:34:16,401 - osint-eye - INFO - ✅ Profile picture available for download
+2025-09-05 18:34:16,402 - osint-eye - INFO - 
+📝 GENERATING SAMPLE POST DATA (For Analysis Demo):
+2025-09-05 18:34:16,404 - osint-eye - INFO - ⚠️  Note: Post engagement data is ESTIMATED, not real Instagram data
+2025-09-05 18:34:16,409 - osint-eye - INFO - Created download directory: images/aminadaresaheb
+2025-09-05 18:34:16,413 - osint-eye - INFO - Downloading media 1/1: https://scontent.cdninstagram.com/v/t51.82787-19/520721406_17956832771967414_7072505691000690911_n.j...
+2025-09-05 18:34:16,529 - osint-eye - INFO - Response status: 200
+2025-09-05 18:34:16,536 - osint-eye - INFO - ✅ Downloaded IMAGE: images/aminadaresaheb/aminadaresaheb_media_1.jpg (4,163 bytes)
+2025-09-05 18:34:19,539 - osint-eye - INFO - Download complete: 1 files saved in images/aminadaresaheb
+2025-09-05 18:34:19,547 - osint-eye - INFO - Downloaded 1 media files
+2025-09-05 18:34:19,551 - osint-eye - INFO - Generated 5 demo posts for analysis framework testing
+2025-09-05 18:37:40,476 - osint-eye - INFO - Fetching Instagram data for @aminadaresaheb
+2025-09-05 18:37:41,459 - osint-eye - INFO - Real data: 315 followers, bio: 'silent heart, loud faith - left it to allha
+destin'
+2025-09-05 18:37:41,465 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-05 18:37:41,475 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-05 18:37:41,479 - osint-eye - INFO -    • Followers: 315
+2025-09-05 18:37:41,481 - osint-eye - INFO -    • Bio: 'silent heart, loud faith - left it to allha
+destin'
+2025-09-05 18:37:41,485 - osint-eye - INFO -    • Posts Count: 2
+2025-09-05 18:37:41,490 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-05 18:37:41,493 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-05 18:37:41,495 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-05 18:37:41,498 - osint-eye - INFO -    • Real post captions
+2025-09-05 18:37:41,501 - osint-eye - INFO -    • Actual hashtags used
+2025-09-05 18:37:41,503 - osint-eye - INFO -    • Post images/videos
+2025-09-05 18:37:41,505 - osint-eye - INFO -    • Stories content
+2025-09-05 18:37:41,507 - osint-eye - INFO - ✅ Profile picture available for download
+2025-09-05 18:37:41,514 - osint-eye - INFO - 
+📝 GENERATING SAMPLE POST DATA (For Analysis Demo):
+2025-09-05 18:37:41,516 - osint-eye - INFO - ⚠️  Note: Post engagement data is ESTIMATED, not real Instagram data
+2025-09-05 18:37:41,520 - osint-eye - INFO - Created download directory: /home/kali/Desktop/tools/osint-eye/images/aminadaresaheb
+2025-09-05 18:37:41,523 - osint-eye - INFO - Downloading media 1/1: https://scontent.cdninstagram.com/v/t51.82787-19/520721406_17956832771967414_7072505691000690911_n.j...
+2025-09-05 18:37:41,665 - osint-eye - INFO - Response status: 200
+2025-09-05 18:37:41,689 - osint-eye - INFO - ✅ Downloaded IMAGE: /home/kali/Desktop/tools/osint-eye/images/aminadaresaheb/aminadaresaheb_media_1.jpg (4,163 bytes)
+2025-09-05 18:37:44,698 - osint-eye - INFO - Download complete: 1 files saved in /home/kali/Desktop/tools/osint-eye/images/aminadaresaheb
+2025-09-05 18:37:44,709 - osint-eye - INFO - Downloaded 1 media files
+2025-09-05 18:37:44,717 - osint-eye - INFO - Generated 5 demo posts for analysis framework testing
+2025-09-05 18:54:53,338 - osint-eye - INFO - Fetching Instagram data for @aminadaresaheb
+2025-09-05 18:54:54,030 - osint-eye - INFO - Real data: 315 followers, bio: 'silent heart, loud faith - left it to allha
+destin'
+2025-09-05 18:54:54,034 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-05 18:54:54,038 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-05 18:54:54,041 - osint-eye - INFO -    • Followers: 315
+2025-09-05 18:54:54,045 - osint-eye - INFO -    • Bio: 'silent heart, loud faith - left it to allha
+destin'
+2025-09-05 18:54:54,049 - osint-eye - INFO -    • Posts Count: 2
+2025-09-05 18:54:54,052 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-05 18:54:54,054 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-05 18:54:54,057 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-05 18:54:54,059 - osint-eye - INFO -    • Real post captions
+2025-09-05 18:54:54,064 - osint-eye - INFO -    • Actual hashtags used
+2025-09-05 18:54:54,068 - osint-eye - INFO -    • Post images/videos
+2025-09-05 18:54:54,070 - osint-eye - INFO -    • Stories content
+2025-09-05 18:54:54,073 - osint-eye - INFO - ✅ Profile picture available for download
+2025-09-05 18:54:54,076 - osint-eye - INFO - 
+📝 GENERATING SAMPLE POST DATA (For Analysis Demo):
+2025-09-05 18:54:54,080 - osint-eye - INFO - ⚠️  Note: Post engagement data is ESTIMATED, not real Instagram data
+2025-09-05 18:54:54,091 - osint-eye - INFO - Created download directory: /home/kali/Desktop/tools/osint-eye/images/aminadaresaheb
+2025-09-05 18:54:54,094 - osint-eye - INFO - Downloading media 1/1: https://scontent.cdninstagram.com/v/t51.82787-19/520721406_17956832771967414_7072505691000690911_n.j...
+2025-09-05 18:54:54,167 - osint-eye - INFO - Response status: 200
+2025-09-05 18:54:54,186 - osint-eye - INFO - ✅ Downloaded IMAGE: /home/kali/Desktop/tools/osint-eye/images/aminadaresaheb/aminadaresaheb_media_1.jpg (4,163 bytes)
+2025-09-05 18:54:57,191 - osint-eye - INFO - Download complete: 1 files saved in /home/kali/Desktop/tools/osint-eye/images/aminadaresaheb
+2025-09-05 18:54:57,203 - osint-eye - INFO - Downloaded 1 media files
+2025-09-05 18:54:57,217 - osint-eye - INFO - Generated 5 demo posts for analysis framework testing
+2025-09-05 18:57:01,891 - osint-eye - INFO - 🔍 Starting real-time monitoring for @aminadaresaheb
+2025-09-05 18:57:01,895 - osint-eye - INFO - ⏰ Check interval: 30 minutes
+2025-09-05 18:57:01,895 - osint-eye - INFO - ⏳ Duration: 24 hours
+2025-09-05 18:57:02,831 - osint-eye - INFO - 📊 Baseline established:
+2025-09-05 18:57:02,832 - osint-eye - INFO -    Followers: 315
+2025-09-05 18:57:02,832 - osint-eye - INFO -    Posts: 2
+2025-09-05 18:57:02,832 - osint-eye - INFO - 🔄 Check #1 - 18:57:02
+2025-09-05 18:57:03,497 - osint-eye - INFO - 🚨 CHANGES DETECTED!
+2025-09-05 18:57:03,501 - osint-eye - INFO -    • Profile picture changed
+2025-09-05 19:01:30,642 - osint-eye - INFO - Fetching Instagram data for @zubair.ahmed.09
+2025-09-05 19:01:31,726 - osint-eye - INFO - Real data: 5 followers, bio: ''
+2025-09-05 19:01:31,730 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-05 19:01:31,734 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-05 19:01:31,737 - osint-eye - INFO -    • Followers: 5
+2025-09-05 19:01:31,740 - osint-eye - INFO -    • Bio: ''
+2025-09-05 19:01:31,743 - osint-eye - INFO -    • Posts Count: 0
+2025-09-05 19:01:31,745 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-05 19:01:31,749 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-05 19:01:31,752 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-05 19:01:31,755 - osint-eye - INFO -    • Real post captions
+2025-09-05 19:01:31,758 - osint-eye - INFO -    • Actual hashtags used
+2025-09-05 19:01:31,760 - osint-eye - INFO -    • Post images/videos
+2025-09-05 19:01:31,763 - osint-eye - INFO -    • Stories content
+2025-09-05 19:01:31,766 - osint-eye - INFO - ✅ Profile picture available for download
+2025-09-05 19:01:31,769 - osint-eye - INFO - No posts to analyze (account has 0 posts)
+2025-09-05 19:03:08,430 - osint-eye - INFO - 🔍 Starting real-time monitoring for @zubair.ahmed.09
+2025-09-05 19:03:08,431 - osint-eye - INFO - ⏰ Check interval: 30 minutes
+2025-09-05 19:03:08,432 - osint-eye - INFO - ⏳ Duration: 24 hours
+2025-09-05 19:03:09,214 - osint-eye - INFO - 📊 Baseline established:
+2025-09-05 19:03:09,215 - osint-eye - INFO -    Followers: 5
+2025-09-05 19:03:09,215 - osint-eye - INFO -    Posts: 0
+2025-09-05 19:03:09,215 - osint-eye - INFO - 🔄 Check #1 - 19:03:09
+2025-09-05 19:03:10,236 - osint-eye - INFO - 🚨 CHANGES DETECTED!
+2025-09-05 19:03:10,237 - osint-eye - INFO -    • Profile picture changed
+2025-09-05 19:09:13,372 - osint-eye - INFO - 🔍 Starting real-time monitoring for @zubair.ahmed.09
+2025-09-05 19:09:13,373 - osint-eye - INFO - ⏰ Check interval: 30 minutes
+2025-09-05 19:09:13,374 - osint-eye - INFO - ⏳ Duration: 24 hours
+2025-09-05 19:09:14,323 - osint-eye - INFO - 📊 Baseline established:
+2025-09-05 19:09:14,323 - osint-eye - INFO -    Followers: 5
+2025-09-05 19:09:14,323 - osint-eye - INFO -    Posts: 2
+2025-09-05 19:09:14,324 - osint-eye - INFO - 🔄 Check #1 - 19:09:14
+2025-09-05 19:09:15,137 - osint-eye - INFO - 🚨 CHANGES DETECTED!
+2025-09-05 19:09:15,138 - osint-eye - INFO -    • Profile picture changed
+2025-09-05 19:11:52,916 - osint-eye - INFO - Fetching Instagram data for @zubair.ahmed.09
+2025-09-05 19:11:54,814 - osint-eye - INFO - Real data: 5 followers, bio: ''
+2025-09-05 19:11:54,817 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-05 19:11:54,820 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-05 19:11:54,823 - osint-eye - INFO -    • Followers: 5
+2025-09-05 19:11:54,825 - osint-eye - INFO -    • Bio: ''
+2025-09-05 19:11:54,829 - osint-eye - INFO -    • Posts Count: 2
+2025-09-05 19:11:54,832 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-05 19:11:54,834 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-05 19:11:54,838 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-05 19:11:54,842 - osint-eye - INFO -    • Real post captions
+2025-09-05 19:11:54,844 - osint-eye - INFO -    • Actual hashtags used
+2025-09-05 19:11:54,847 - osint-eye - INFO -    • Post images/videos
+2025-09-05 19:11:54,849 - osint-eye - INFO -    • Stories content
+2025-09-05 19:11:54,852 - osint-eye - INFO - ✅ Profile picture available for download
+2025-09-05 19:11:54,861 - osint-eye - INFO - 
+📝 GENERATING SAMPLE POST DATA (For Analysis Demo):
+2025-09-05 19:11:54,867 - osint-eye - INFO - ⚠️  Note: Post engagement data is ESTIMATED, not real Instagram data
+2025-09-05 19:11:54,895 - osint-eye - INFO - Created download directory: /home/kali/Desktop/tools/osint-eye/images/zubair.ahmed.09
+2025-09-05 19:11:54,924 - osint-eye - INFO - Downloading media 1/1: https://scontent.cdninstagram.com/v/t51.82787-19/540691214_17847803199552281_1335789948948948349_n.j...
+2025-09-05 19:11:55,390 - osint-eye - INFO - Response status: 200
+2025-09-05 19:11:55,435 - osint-eye - INFO - ✅ Downloaded IMAGE: /home/kali/Desktop/tools/osint-eye/images/zubair.ahmed.09/zubair.ahmed.09_media_1.jpg (1,868 bytes)
+2025-09-05 19:11:58,442 - osint-eye - INFO - Download complete: 1 files saved in /home/kali/Desktop/tools/osint-eye/images/zubair.ahmed.09
+2025-09-05 19:11:58,524 - osint-eye - INFO - Downloaded 1 media files
+2025-09-05 19:11:58,564 - osint-eye - INFO - Generated 5 demo posts for analysis framework testing
+2025-09-06 05:11:05,678 - osint-eye - INFO - Fetching real Twitter data for @ms_slutty_vani
+2025-09-06 05:12:06,516 - osint-eye - INFO - Fetching Instagram data for @ms_slutty_vani
+2025-09-06 05:12:07,818 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-06 05:12:07,822 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-06 05:12:07,825 - osint-eye - INFO -    • Followers: 0
+2025-09-06 05:12:07,828 - osint-eye - INFO -    • Bio: ''
+2025-09-06 05:12:07,830 - osint-eye - INFO -    • Posts Count: 0
+2025-09-06 05:12:07,832 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-06 05:12:07,834 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-06 05:12:07,838 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-06 05:12:07,844 - osint-eye - INFO -    • Real post captions
+2025-09-06 05:12:07,848 - osint-eye - INFO -    • Actual hashtags used
+2025-09-06 05:12:07,853 - osint-eye - INFO -    • Post images/videos
+2025-09-06 05:12:07,856 - osint-eye - INFO -    • Stories content
+2025-09-06 05:12:07,860 - osint-eye - INFO - No posts to analyze (account has 0 posts)
+2025-09-06 05:12:53,059 - osint-eye - INFO - Fetching Instagram data for @who_is_the_black_hat
+2025-09-06 05:12:54,433 - osint-eye - INFO - Real data: 93 followers, bio: '[SV] ∎ uid=0x1337(root) /dev/soul|grep'
+2025-09-06 05:12:54,439 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-06 05:12:54,442 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-06 05:12:54,445 - osint-eye - INFO -    • Followers: 93
+2025-09-06 05:12:54,447 - osint-eye - INFO -    • Bio: '[SV] ∎ uid=0x1337(root) /dev/soul|grep'
+2025-09-06 05:12:54,459 - osint-eye - INFO -    • Posts Count: 0
+2025-09-06 05:12:54,462 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-06 05:12:54,464 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-06 05:12:54,477 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-06 05:12:54,481 - osint-eye - INFO -    • Real post captions
+2025-09-06 05:12:54,485 - osint-eye - INFO -    • Actual hashtags used
+2025-09-06 05:12:54,488 - osint-eye - INFO -    • Post images/videos
+2025-09-06 05:12:54,492 - osint-eye - INFO -    • Stories content
+2025-09-06 05:12:54,496 - osint-eye - INFO - ✅ Profile picture available for download
+2025-09-06 05:12:54,499 - osint-eye - INFO - No posts to analyze (account has 0 posts)
+2025-09-06 05:40:36,448 - osint-eye - INFO - Fetching Instagram data for @zubair.ahmed.09
+2025-09-06 05:40:45,297 - osint-eye - INFO - Real data: 5 followers, bio: ''
+2025-09-06 05:40:45,299 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-06 05:40:45,300 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-06 05:40:45,302 - osint-eye - INFO -    • Followers: 5
+2025-09-06 05:40:45,303 - osint-eye - INFO -    • Bio: ''
+2025-09-06 05:40:45,305 - osint-eye - INFO -    • Posts Count: 2
+2025-09-06 05:40:45,306 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-06 05:40:45,308 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-06 05:40:45,309 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-06 05:40:45,311 - osint-eye - INFO -    • Real post captions
+2025-09-06 05:40:45,312 - osint-eye - INFO -    • Actual hashtags used
+2025-09-06 05:40:45,313 - osint-eye - INFO -    • Post images/videos
+2025-09-06 05:40:45,315 - osint-eye - INFO -    • Stories content
+2025-09-06 05:40:45,317 - osint-eye - INFO - ✅ Profile picture available for download
+2025-09-06 05:40:45,319 - osint-eye - INFO - 
+📝 GENERATING SAMPLE POST DATA (For Analysis Demo):
+2025-09-06 05:40:45,321 - osint-eye - INFO - ⚠️  Note: Post engagement data is ESTIMATED, not real Instagram data
+2025-09-06 05:40:45,328 - osint-eye - INFO - Created download directory: /home/kali/Desktop/tools/osint-eye/images/zubair.ahmed.09
+2025-09-06 05:40:45,330 - osint-eye - INFO - Downloading media 1/1: https://scontent.cdninstagram.com/v/t51.82787-19/540691214_17847803199552281_1335789948948948349_n.j...
+2025-09-06 05:40:50,827 - osint-eye - INFO - Response status: 200
+2025-09-06 05:40:50,869 - osint-eye - INFO - ✅ Downloaded IMAGE: /home/kali/Desktop/tools/osint-eye/images/zubair.ahmed.09/zubair.ahmed.09_media_1.jpg (1,868 bytes)
+2025-09-06 05:40:53,899 - osint-eye - INFO - Download complete: 1 files saved in /home/kali/Desktop/tools/osint-eye/images/zubair.ahmed.09
+2025-09-06 05:40:53,912 - osint-eye - INFO - Downloaded 1 media files
+2025-09-06 05:40:53,916 - osint-eye - INFO - Generated 5 demo posts for analysis framework testing
+2025-09-06 05:45:40,861 - osint-eye - INFO - Fetching Instagram data for @mssluttyv2_
+2025-09-06 05:45:41,694 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-06 05:45:41,698 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-06 05:45:41,702 - osint-eye - INFO -    • Followers: 0
+2025-09-06 05:45:41,704 - osint-eye - INFO -    • Bio: ''
+2025-09-06 05:45:41,707 - osint-eye - INFO -    • Posts Count: 0
+2025-09-06 05:45:41,709 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-06 05:45:41,711 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-06 05:45:41,713 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-06 05:45:41,715 - osint-eye - INFO -    • Real post captions
+2025-09-06 05:45:41,728 - osint-eye - INFO -    • Actual hashtags used
+2025-09-06 05:45:41,731 - osint-eye - INFO -    • Post images/videos
+2025-09-06 05:45:41,735 - osint-eye - INFO -    • Stories content
+2025-09-06 05:45:41,742 - osint-eye - INFO - No posts to analyze (account has 0 posts)
+2025-09-06 05:45:58,517 - osint-eye - INFO - Fetching real TikTok data for @mssluttyv2_
+2025-09-06 05:47:13,993 - osint-eye - INFO - Fetching Instagram data for @mssluttyv21
+2025-09-06 05:47:14,884 - osint-eye - INFO - Real data: 323 followers, bio: 'new account
+yg follow dapat 3 video gratis ya'
+2025-09-06 05:47:14,890 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-06 05:47:14,894 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-06 05:47:14,896 - osint-eye - INFO -    • Followers: 323
+2025-09-06 05:47:14,899 - osint-eye - INFO -    • Bio: 'new account
+yg follow dapat 3 video gratis ya'
+2025-09-06 05:47:14,902 - osint-eye - INFO -    • Posts Count: 1
+2025-09-06 05:47:14,903 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-06 05:47:14,905 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-06 05:47:14,907 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-06 05:47:14,917 - osint-eye - INFO -    • Real post captions
+2025-09-06 05:47:14,919 - osint-eye - INFO -    • Actual hashtags used
+2025-09-06 05:47:14,921 - osint-eye - INFO -    • Post images/videos
+2025-09-06 05:47:14,924 - osint-eye - INFO -    • Stories content
+2025-09-06 05:47:14,927 - osint-eye - INFO - ✅ Profile picture available for download
+2025-09-06 05:47:14,930 - osint-eye - INFO - 
+📝 GENERATING SAMPLE POST DATA (For Analysis Demo):
+2025-09-06 05:47:14,934 - osint-eye - INFO - ⚠️  Note: Post engagement data is ESTIMATED, not real Instagram data
+2025-09-06 05:47:14,947 - osint-eye - INFO - Created download directory: /home/kali/Desktop/tools/osint-eye/images/mssluttyv21
+2025-09-06 05:47:14,951 - osint-eye - INFO - Downloading media 1/1: https://scontent.cdninstagram.com/v/t51.82787-19/516929559_17863448412428230_162310602179576839_n.jp...
+2025-09-06 05:47:15,398 - osint-eye - INFO - Response status: 200
+2025-09-06 05:47:15,406 - osint-eye - INFO - ✅ Downloaded IMAGE: /home/kali/Desktop/tools/osint-eye/images/mssluttyv21/mssluttyv21_media_1.jpg (2,586 bytes)
+2025-09-06 05:47:18,414 - osint-eye - INFO - Download complete: 1 files saved in /home/kali/Desktop/tools/osint-eye/images/mssluttyv21
+2025-09-06 05:47:18,425 - osint-eye - INFO - Downloaded 1 media files
+2025-09-06 05:47:18,432 - osint-eye - INFO - Generated 5 demo posts for analysis framework testing
+2025-09-06 05:48:01,914 - osint-eye - INFO - Fetching real Twitter data for @mssluttyv2__
+2025-09-06 06:24:18,389 - osint-eye - INFO - Analyzing profile with 5 posts
+2025-09-06 06:24:18,495 - osint-eye - INFO - Analysis complete: 5 posts, sentiment: 0.00
+2025-09-06 06:26:03,016 - osint-eye - INFO - Analyzing profile with 5 posts
+2025-09-06 06:26:03,092 - osint-eye - INFO - Analysis complete: 5 posts, sentiment: 0.00
+2025-09-06 17:44:50,500 - osint-eye - INFO - Fetching real TikTok data for @littlemuslim
+2025-09-06 17:45:08,160 - osint-eye - INFO - Fetching real Twitter data for @littlemuslim
+2025-09-06 17:45:29,543 - osint-eye - INFO - Fetching Instagram data for @littlemuslim
+2025-09-06 17:45:30,727 - osint-eye - INFO - Real data: 7 followers, bio: ''
+2025-09-06 17:45:30,729 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-06 17:45:30,732 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-06 17:45:30,733 - osint-eye - INFO -    • Followers: 7
+2025-09-06 17:45:30,735 - osint-eye - INFO -    • Bio: ''
+2025-09-06 17:45:30,737 - osint-eye - INFO -    • Posts Count: 0
+2025-09-06 17:45:30,739 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-06 17:45:30,740 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-06 17:45:30,742 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-06 17:45:30,744 - osint-eye - INFO -    • Real post captions
+2025-09-06 17:45:30,746 - osint-eye - INFO -    • Actual hashtags used
+2025-09-06 17:45:30,748 - osint-eye - INFO -    • Post images/videos
+2025-09-06 17:45:30,749 - osint-eye - INFO -    • Stories content
+2025-09-06 17:45:30,752 - osint-eye - INFO - No posts to analyze (account has 0 posts)
+2025-09-06 17:46:34,459 - osint-eye - INFO - Fetching Instagram data for @mssluttyv2
+2025-09-06 17:46:35,131 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-06 17:46:35,143 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-06 17:46:35,156 - osint-eye - INFO -    • Followers: 0
+2025-09-06 17:46:35,176 - osint-eye - INFO -    • Bio: ''
+2025-09-06 17:46:35,192 - osint-eye - INFO -    • Posts Count: 0
+2025-09-06 17:46:35,202 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-06 17:46:35,214 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-06 17:46:35,219 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-06 17:46:35,222 - osint-eye - INFO -    • Real post captions
+2025-09-06 17:46:35,226 - osint-eye - INFO -    • Actual hashtags used
+2025-09-06 17:46:35,232 - osint-eye - INFO -    • Post images/videos
+2025-09-06 17:46:35,247 - osint-eye - INFO -    • Stories content
+2025-09-06 17:46:35,257 - osint-eye - INFO - No posts to analyze (account has 0 posts)
+2025-09-06 17:46:48,102 - osint-eye - INFO - Fetching Instagram data for @mssluttyvani
+2025-09-06 17:46:48,709 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-06 17:46:48,715 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-06 17:46:48,717 - osint-eye - INFO -    • Followers: 0
+2025-09-06 17:46:48,720 - osint-eye - INFO -    • Bio: ''
+2025-09-06 17:46:48,722 - osint-eye - INFO -    • Posts Count: 0
+2025-09-06 17:46:48,724 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-06 17:46:48,726 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-06 17:46:48,728 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-06 17:46:48,731 - osint-eye - INFO -    • Real post captions
+2025-09-06 17:46:48,733 - osint-eye - INFO -    • Actual hashtags used
+2025-09-06 17:46:48,735 - osint-eye - INFO -    • Post images/videos
+2025-09-06 17:46:48,737 - osint-eye - INFO -    • Stories content
+2025-09-06 17:46:48,739 - osint-eye - INFO - No posts to analyze (account has 0 posts)
+2025-09-06 17:47:10,524 - osint-eye - INFO - Fetching Instagram data for @missslutty
+2025-09-06 17:47:11,472 - osint-eye - INFO - Real data: 4 followers, bio: ''
+2025-09-06 17:47:11,478 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-06 17:47:11,481 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-06 17:47:11,484 - osint-eye - INFO -    • Followers: 4
+2025-09-06 17:47:11,486 - osint-eye - INFO -    • Bio: ''
+2025-09-06 17:47:11,489 - osint-eye - INFO -    • Posts Count: 0
+2025-09-06 17:47:11,491 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-06 17:47:11,494 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-06 17:47:11,499 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-06 17:47:11,502 - osint-eye - INFO -    • Real post captions
+2025-09-06 17:47:11,506 - osint-eye - INFO -    • Actual hashtags used
+2025-09-06 17:47:11,510 - osint-eye - INFO -    • Post images/videos
+2025-09-06 17:47:11,513 - osint-eye - INFO -    • Stories content
+2025-09-06 17:47:11,515 - osint-eye - INFO - No posts to analyze (account has 0 posts)
+2025-09-06 17:50:00,631 - osint-eye - INFO - Fetching real Twitter data for @missslutty
+2025-09-06 17:50:09,037 - osint-eye - INFO - Fetching real Twitter data for @missslutty
+2025-09-06 18:12:40,797 - osint-eye - INFO - Fetching Instagram data for @mahek
+2025-09-06 18:12:41,618 - osint-eye - INFO - Real data: 0 followers, bio: 'Claimed by @syedzaidahmed'
+2025-09-06 18:12:41,621 - osint-eye - INFO - 🔍 INSTAGRAM DATA EXTRACTION REPORT:
+2025-09-06 18:12:41,624 - osint-eye - INFO - ✅ REAL DATA EXTRACTED:
+2025-09-06 18:12:41,627 - osint-eye - INFO -    • Followers: 0
+2025-09-06 18:12:41,631 - osint-eye - INFO -    • Bio: 'Claimed by @syedzaidahmed'
+2025-09-06 18:12:41,633 - osint-eye - INFO -    • Posts Count: 3
+2025-09-06 18:12:41,636 - osint-eye - INFO -    • Profile Picture: Available
+2025-09-06 18:12:41,642 - osint-eye - INFO - ❌ INSTAGRAM LIMITATIONS (Login Required):
+2025-09-06 18:12:41,646 - osint-eye - INFO -    • Individual post likes/comments
+2025-09-06 18:12:41,648 - osint-eye - INFO -    • Real post captions
+2025-09-06 18:12:41,651 - osint-eye - INFO -    • Actual hashtags used
+2025-09-06 18:12:41,654 - osint-eye - INFO -    • Post images/videos
+2025-09-06 18:12:41,657 - osint-eye - INFO -    • Stories content
+2025-09-06 18:12:41,660 - osint-eye - INFO - ✅ Profile picture available for download
+2025-09-06 18:12:41,664 - osint-eye - INFO - 
+📝 GENERATING SAMPLE POST DATA (For Analysis Demo):
+2025-09-06 18:12:41,667 - osint-eye - INFO - ⚠️  Note: Post engagement data is ESTIMATED, not real Instagram data
+2025-09-06 18:12:41,671 - osint-eye - INFO - Created download directory: /home/kali/Desktop/tools/osint-eye/images/mahek
+2025-09-06 18:12:41,674 - osint-eye - INFO - Downloading media 1/1: https://scontent.cdninstagram.com/v/t51.82787-19/535031811_17842450296560482_8473801239047497768_n.j...
+2025-09-06 18:12:42,009 - osint-eye - INFO - Response status: 200
+2025-09-06 18:12:42,016 - osint-eye - INFO - ✅ Downloaded IMAGE: /home/kali/Desktop/tools/osint-eye/images/mahek/mahek_media_1.jpg (3,626 bytes)
+2025-09-06 18:12:45,020 - osint-eye - INFO - Download complete: 1 files saved in /home/kali/Desktop/tools/osint-eye/images/mahek
+2025-09-06 18:12:45,027 - osint-eye - INFO - Downloaded 1 media files
+2025-09-06 18:12:45,030 - osint-eye - INFO - Generated 5 demo posts for analysis framework testing

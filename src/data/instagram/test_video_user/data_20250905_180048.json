@@ -1,0 +1,23 @@
+{
+  "profile": {
+    "username": "test_video_user",
+    "full_name": "",
+    "biography": "",
+    "followers": 0,
+    "followees": 0,
+    "posts_count": 0,
+    "is_verified": false,
+    "is_private": false,
+    "external_url": "",
+    "profile_pic_url": ""
+  },
+  "posts": [],
+  "stories": [],
+  "total_fetched": 0,
+  "metadata": {
+    "platform": "instagram",
+    "username": "test_video_user",
+    "timestamp": "20250905_180048",
+    "fetched_at": "2025-09-05T18:00:48.336820"
+  }
+}

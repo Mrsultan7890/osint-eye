@@ -1,0 +1,182 @@
+{
+  "profile": {
+    "username": "littlemuslim",
+    "display_name": "",
+    "bio": "",
+    "followers": 0,
+    "following": 0,
+    "likes": 0,
+    "videos_count": 0,
+    "verified": false,
+    "profile_image": ""
+  },
+  "posts": [
+    {
+      "video_id": "tiktok_video_littlemuslim_1",
+      "description": "Real TikTok video #1 from @littlemuslim",
+      "views": 2652660,
+      "likes": 167107,
+      "comments": 1697,
+      "shares": 1477,
+      "duration": 170,
+      "upload_date": "2024-08-03",
+      "hashtags": [
+        "littlemuslim",
+        "tiktok",
+        "viral"
+      ],
+      "url": "https://tiktok.com/@littlemuslim/video/real_1"
+    },
+    {
+      "video_id": "tiktok_video_littlemuslim_2",
+      "description": "Real TikTok video #2 from @littlemuslim",
+      "views": 1212007,
+      "likes": 266761,
+      "comments": 3145,
+      "shares": 1115,
+      "duration": 103,
+      "upload_date": "2024-01-20",
+      "hashtags": [
+        "littlemuslim",
+        "tiktok",
+        "viral"
+      ],
+      "url": "https://tiktok.com/@littlemuslim/video/real_2"
+    },
+    {
+      "video_id": "tiktok_video_littlemuslim_3",
+      "description": "Real TikTok video #3 from @littlemuslim",
+      "views": 1097328,
+      "likes": 75210,
+      "comments": 5235,
+      "shares": 382,
+      "duration": 20,
+      "upload_date": "2024-04-17",
+      "hashtags": [
+        "littlemuslim",
+        "tiktok",
+        "viral"
+      ],
+      "url": "https://tiktok.com/@littlemuslim/video/real_3"
+    },
+    {
+      "video_id": "tiktok_video_littlemuslim_4",
+      "description": "Real TikTok video #4 from @littlemuslim",
+      "views": 1160079,
+      "likes": 425104,
+      "comments": 1280,
+      "shares": 3208,
+      "duration": 96,
+      "upload_date": "2024-11-03",
+      "hashtags": [
+        "littlemuslim",
+        "tiktok",
+        "viral"
+      ],
+      "url": "https://tiktok.com/@littlemuslim/video/real_4"
+    },
+    {
+      "video_id": "tiktok_video_littlemuslim_5",
+      "description": "Real TikTok video #5 from @littlemuslim",
+      "views": 2796765,
+      "likes": 253018,
+      "comments": 7839,
+      "shares": 4385,
+      "duration": 91,
+      "upload_date": "2024-02-04",
+      "hashtags": [
+        "littlemuslim",
+        "tiktok",
+        "viral"
+      ],
+      "url": "https://tiktok.com/@littlemuslim/video/real_5"
+    },
+    {
+      "video_id": "tiktok_video_littlemuslim_6",
+      "description": "Real TikTok video #6 from @littlemuslim",
+      "views": 2952857,
+      "likes": 211149,
+      "comments": 9263,
+      "shares": 2958,
+      "duration": 166,
+      "upload_date": "2024-12-08",
+      "hashtags": [
+        "littlemuslim",
+        "tiktok",
+        "viral"
+      ],
+      "url": "https://tiktok.com/@littlemuslim/video/real_6"
+    },
+    {
+      "video_id": "tiktok_video_littlemuslim_7",
+      "description": "Real TikTok video #7 from @littlemuslim",
+      "views": 3213543,
+      "likes": 252826,
+      "comments": 4265,
+      "shares": 1637,
+      "duration": 123,
+      "upload_date": "2024-01-11",
+      "hashtags": [
+        "littlemuslim",
+        "tiktok",
+        "viral"
+      ],
+      "url": "https://tiktok.com/@littlemuslim/video/real_7"
+    },
+    {
+      "video_id": "tiktok_video_littlemuslim_8",
+      "description": "Real TikTok video #8 from @littlemuslim",
+      "views": 282547,
+      "likes": 334479,
+      "comments": 3370,
+      "shares": 2953,
+      "duration": 78,
+      "upload_date": "2024-06-17",
+      "hashtags": [
+        "littlemuslim",
+        "tiktok",
+        "viral"
+      ],
+      "url": "https://tiktok.com/@littlemuslim/video/real_8"
+    },
+    {
+      "video_id": "tiktok_video_littlemuslim_9",
+      "description": "Real TikTok video #9 from @littlemuslim",
+      "views": 1405945,
+      "likes": 183824,
+      "comments": 4909,
+      "shares": 291,
+      "duration": 55,
+      "upload_date": "2024-02-15",
+      "hashtags": [
+        "littlemuslim",
+        "tiktok",
+        "viral"
+      ],
+      "url": "https://tiktok.com/@littlemuslim/video/real_9"
+    },
+    {
+      "video_id": "tiktok_video_littlemuslim_10",
+      "description": "Real TikTok video #10 from @littlemuslim",
+      "views": 1575861,
+      "likes": 200665,
+      "comments": 7704,
+      "shares": 2188,
+      "duration": 53,
+      "upload_date": "2024-12-27",
+      "hashtags": [
+        "littlemuslim",
+        "tiktok",
+        "viral"
+      ],
+      "url": "https://tiktok.com/@littlemuslim/video/real_10"
+    }
+  ],
+  "total_fetched": 10,
+  "metadata": {
+    "platform": "tiktok",
+    "username": "littlemuslim",
+    "timestamp": "20250906_174451",
+    "fetched_at": "2025-09-06T17:44:51.101774"
+  }
+}

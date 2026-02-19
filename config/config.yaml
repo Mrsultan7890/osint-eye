@@ -1,0 +1,114 @@
+# OSINT Eye Configuration File
+
+# General Settings
+general:
+  log_level: INFO
+  max_retries: 3
+  rate_limit_delay: 2
+  output_format: json
+  cache_enabled: true
+  cache_duration: 3600  # seconds
+
+# Database Settings
+database:
+  type: sqlite
+  path: data/osint_eye.db
+  backup_enabled: true
+  backup_interval: 24  # hours
+
+# Fetcher Settings
+fetchers:
+  instagram:
+    enabled: true
+    max_posts: 50
+    download_images: false
+    session_file: cache/instagram_session.json
+  
+  twitter:
+    enabled: true
+    max_tweets: 100
+    include_retweets: false
+  
+  youtube:
+    enabled: true
+    max_videos: 30
+  
+  tiktok:
+    enabled: true
+    max_videos: 25
+    headless: true
+  
+  linkedin:
+    enabled: true
+    max_posts: 20
+
+# Analysis Settings
+analysis:
+  sentiment_analysis: true
+  entity_extraction: true
+  language_detection: true
+  activity_patterns: true
+  hashtag_analysis: true
+  
+  # AI Features
+  ai_features:
+    face_detection: false
+    image_analysis: false
+    reverse_image_search: false
+
+# Security Settings
+security:
+  proxy_enabled: false
+  tor_enabled: false
+  user_agent_rotation: true
+  request_delay_randomization: true
+  
+  # Proxy Configuration
+  proxies:
+    - type: tor
+      host: 127.0.0.1
+      port: 9050
+      enabled: false
+
+# Visualization Settings
+visualization:
+  network_analysis: true
+  interactive_graphs: true
+  static_graphs: true
+  export_formats: [png, html, json]
+
+# Automation Settings
+automation:
+  scheduler_enabled: false
+  default_schedule: daily
+  default_time: "09:00"
+  alert_keywords: []
+  sentiment_threshold: -0.5
+
+# API Settings
+api:
+  enabled: false
+  host: 127.0.0.1
+  port: 5000
+  debug: false
+  cors_enabled: true
+
+# Reporting Settings
+reporting:
+  formats: [json, html, markdown, pdf]
+  include_charts: true
+  include_network_graph: false
+  template_dir: templates/
+  
+# Performance Settings
+performance:
+  max_concurrent_requests: 5
+  request_timeout: 30
+  memory_limit: 1024  # MB
+  
+# Compliance Settings
+compliance:
+  respect_robots_txt: true
+  rate_limiting: true
+  data_retention_days: 90
+  anonymize_data: false

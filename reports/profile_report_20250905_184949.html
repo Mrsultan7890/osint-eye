@@ -1,0 +1,133 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OSINT Eye - Profile Report</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 20px; background: #f5f5f5; }
+        .container { max-width: 1200px; margin: 0 auto; background: white; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        .header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px; border-radius: 10px 10px 0 0; }
+        .header h1 { margin: 0; font-size: 2.5em; }
+        .header p { margin: 10px 0 0 0; opacity: 0.9; }
+        .content { padding: 30px; }
+        .profile-card { display: flex; align-items: center; background: #f8f9fa; padding: 20px; border-radius: 10px; margin-bottom: 30px; }
+        .profile-pic { width: 100px; height: 100px; border-radius: 50%; margin-right: 20px; object-fit: cover; }
+        .profile-info h2 { margin: 0; color: #333; }
+        .profile-info p { margin: 5px 0; color: #666; }
+        .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 30px; }
+        .stat-card { background: white; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px; text-align: center; }
+        .stat-number { font-size: 2em; font-weight: bold; color: #667eea; }
+        .stat-label { color: #666; margin-top: 5px; }
+        .chart-container { background: white; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px; margin-bottom: 20px; }
+        .posts-section { margin-top: 30px; }
+        .post-card { background: #f8f9fa; border-radius: 10px; padding: 20px; margin-bottom: 15px; }
+        .post-meta { color: #666; font-size: 0.9em; margin-bottom: 10px; }
+        .limitations { background: #fff3cd; border: 1px solid #ffeaa7; border-radius: 10px; padding: 20px; margin-bottom: 20px; }
+        .limitations h3 { color: #856404; margin-top: 0; }
+        .tag { background: #667eea; color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; margin-right: 5px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🔍 OSINT Eye Report</h1>
+            <p>Profile Analysis for @cristiano</p>
+            <p>Generated: 2025-09-05 18:49:49</p>
+        </div>
+        
+        <div class="content">
+            <div class="profile-card">
+                <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgICAgICAgICAgPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgcj0iNTAiIGZpbGw9IiM2NjdlZWEiLz4KICAgICAgICAgICAgPGNpcmNsZSBjeD0iNTAiIGN5PSIzNSIgcj0iMTUiIGZpbGw9IndoaXRlIi8+CiAgICAgICAgICAgIDxlbGxpcHNlIGN4PSI1MCIgY3k9Ijc1IiByeD0iMjAiIHJ5PSIxNSIgZmlsbD0id2hpdGUiLz4KICAgICAgICA8L3N2Zz4=" alt="Profile" class="profile-pic">
+                <div class="profile-info">
+                    <h2>Cristiano Ronaldo</h2>
+                    <p><strong>@cristiano</strong></p>
+                    <p>SIUUUbscribe to my Youtube Channel!</p>
+                </div>
+            </div>
+            
+            <div class="limitations">
+                <h3>⚠️ Data Limitations</h3>
+                <p><strong>Real Data:</strong> Followers (664,000,000), Bio, Posts Count (3,932)</p>
+                <p><strong>Limited Data:</strong> Individual post likes/comments, real captions, hashtags (Instagram login required)</p>
+            </div>
+            
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number">664,000,000</div>
+                    <div class="stat-label">Followers</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">623</div>
+                    <div class="stat-label">Following</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">3,932</div>
+                    <div class="stat-label">Posts</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">2</div>
+                    <div class="stat-label">Demo Posts Generated</div>
+                </div>
+            </div>
+            
+            <div class="chart-container">
+                <h3>📊 Account Overview</h3>
+                <canvas id="overviewChart" width="400" height="200"></canvas>
+            </div>
+            
+            <div class="posts-section">
+                <h3>📝 Generated Demo Posts (For Analysis Framework)</h3>
+                
+            <div class="post-card">
+                <div class="post-meta">
+                    Post #1 • 2024-01-01T12:00:00Z • Unknown
+                </div>
+                <p><strong>Caption:</strong> [DEMO] Sample post 1 for analysis demonstration</p>
+                <p><strong>Note:</strong> This is demonstration data - real post metrics require Instagram login</p>
+                <div>
+                    <span class="tag">Likes: 0</span>
+                    <span class="tag">Comments: 0</span>
+                </div>
+            </div>
+            <div class="post-card">
+                <div class="post-meta">
+                    Post #2 • 2024-01-01T12:00:00Z • Unknown
+                </div>
+                <p><strong>Caption:</strong> [DEMO] Sample post 2 for analysis demonstration</p>
+                <p><strong>Note:</strong> This is demonstration data - real post metrics require Instagram login</p>
+                <div>
+                    <span class="tag">Likes: 0</span>
+                    <span class="tag">Comments: 0</span>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Chart.js visualization
+        const ctx = document.getElementById('overviewChart').getContext('2d');
+        new Chart(ctx, {
+            type: 'doughnut',
+            data: {
+                labels: ['Followers', 'Following', 'Posts'],
+                datasets: [{
+                    data: [664000000, 623, 3932],
+                    backgroundColor: ['#667eea', '#764ba2', '#f093fb']
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        position: 'bottom'
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

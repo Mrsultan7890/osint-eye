@@ -1,0 +1,116 @@
+{
+  "profile": {
+    "username": "cristiano",
+    "full_name": "Cristiano Ronaldo",
+    "biography": "SIUUUbscribe to my Youtube Channel!",
+    "followers": 664000000,
+    "followees": 623,
+    "posts_count": 3932,
+    "is_verified": false,
+    "is_private": false,
+    "external_url": "",
+    "profile_pic_url": ""
+  },
+  "posts": [
+    {
+      "shortcode": "cristiano_1",
+      "caption": "Post #1 from @cristiano",
+      "date": "2024-12-04T17:00:00Z",
+      "likes": 436897,
+      "comments": 14249,
+      "is_video": false,
+      "url": "https://instagram.com/p/cristiano_1/",
+      "hashtags": [
+        "cristiano"
+      ],
+      "mentions": []
+    },
+    {
+      "shortcode": "cristiano_2",
+      "caption": "Post #2 from @cristiano",
+      "date": "2024-07-09T19:00:00Z",
+      "likes": 266228,
+      "comments": 20850,
+      "is_video": false,
+      "url": "https://instagram.com/p/cristiano_2/",
+      "hashtags": [
+        "cristiano"
+      ],
+      "mentions": []
+    },
+    {
+      "shortcode": "cristiano_3",
+      "caption": "Post #3 from @cristiano",
+      "date": "2024-02-25T03:00:00Z",
+      "likes": 482909,
+      "comments": 1423,
+      "is_video": false,
+      "url": "https://instagram.com/p/cristiano_3/",
+      "hashtags": [
+        "cristiano"
+      ],
+      "mentions": []
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "cristiano_story_1",
+      "type": "photo",
+      "timestamp": "2024-09-14T06:00:00Z",
+      "views": 209666,
+      "duration": null,
+      "has_music": false,
+      "location": "Madrid",
+      "hashtags": [
+        "cristiano",
+        "story"
+      ]
+    },
+    {
+      "story_id": "cristiano_story_2",
+      "type": "video",
+      "timestamp": "2024-10-14T03:00:00Z",
+      "views": 406871,
+      "duration": 12,
+      "has_music": true,
+      "location": "Riyadh",
+      "hashtags": [
+        "cristiano",
+        "story"
+      ]
+    },
+    {
+      "story_id": "cristiano_story_3",
+      "type": "photo",
+      "timestamp": "2024-12-17T10:00:00Z",
+      "views": 486697,
+      "duration": 8,
+      "has_music": true,
+      "location": "Riyadh",
+      "hashtags": [
+        "cristiano",
+        "story"
+      ]
+    },
+    {
+      "story_id": "cristiano_story_4",
+      "type": "video",
+      "timestamp": "2024-10-15T07:00:00Z",
+      "views": 107520,
+      "duration": null,
+      "has_music": true,
+      "location": "",
+      "hashtags": [
+        "cristiano",
+        "story"
+      ]
+    }
+  ],
+  "total_fetched": 3,
+  "metadata": {
+    "platform": "instagram",
+    "username": "cristiano",
+    "timestamp": "20250905_122429",
+    "fetched_at": "2025-09-05T12:24:29.696935"
+  }
+}

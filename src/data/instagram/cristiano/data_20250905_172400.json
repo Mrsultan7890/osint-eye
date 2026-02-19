@@ -1,0 +1,154 @@
+{
+  "profile": {
+    "username": "cristiano",
+    "full_name": "Cristiano Ronaldo",
+    "biography": "SIUUUbscribe to my Youtube Channel!",
+    "followers": 664000000,
+    "followees": 623,
+    "posts_count": 3932,
+    "is_verified": false,
+    "is_private": true,
+    "external_url": "",
+    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=1&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=s07J-X30NK0Q7kNvwG7ouRS&_nc_oc=Adm0ZRxLob-rdYZw0DLRWDBMg6m9CXiMlAxpaY5zpXvvrpwEahgKJTcCY-skNBGIoFk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&oh=00_AfapK3E0z4AwccDB5404pRkZuDi3pH0g-j2cb__Dju8K6w&oe=68C0F85E"
+  },
+  "posts": [
+    {
+      "id": "sample_0",
+      "caption": "Sample post 1 for analysis",
+      "likes": 8677,
+      "comments": 220,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    },
+    {
+      "id": "sample_1",
+      "caption": "Sample post 2 for analysis",
+      "likes": 7683,
+      "comments": 421,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    },
+    {
+      "id": "sample_2",
+      "caption": "Sample post 3 for analysis",
+      "likes": 7146,
+      "comments": 132,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    },
+    {
+      "id": "sample_3",
+      "caption": "Sample post 4 for analysis",
+      "likes": 1532,
+      "comments": 249,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    },
+    {
+      "id": "sample_4",
+      "caption": "Sample post 5 for analysis",
+      "likes": 392,
+      "comments": 313,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    },
+    {
+      "id": "sample_5",
+      "caption": "Sample post 6 for analysis",
+      "likes": 3745,
+      "comments": 440,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    },
+    {
+      "id": "sample_6",
+      "caption": "Sample post 7 for analysis",
+      "likes": 8018,
+      "comments": 411,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    },
+    {
+      "id": "sample_7",
+      "caption": "Sample post 8 for analysis",
+      "likes": 7513,
+      "comments": 463,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    },
+    {
+      "id": "sample_8",
+      "caption": "Sample post 9 for analysis",
+      "likes": 6797,
+      "comments": 474,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    },
+    {
+      "id": "sample_9",
+      "caption": "Sample post 10 for analysis",
+      "likes": 1248,
+      "comments": 159,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#sample",
+        "#analysis"
+      ],
+      "mentions": []
+    }
+  ],
+  "stories": [],
+  "total_fetched": 10,
+  "metadata": {
+    "platform": "instagram",
+    "username": "cristiano",
+    "timestamp": "20250905_172400",
+    "fetched_at": "2025-09-05T17:24:00.030475"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "profile": {
+    "username": "cristiano",
+    "full_name": "Cristiano (Real Profile)",
+    "biography": "Real Instagram profile for @cristiano. Data extracted via web scraping.",
+    "followers": 464473739,
+    "followees": 1200,
+    "posts_count": 466,
+    "is_verified": true,
+    "is_private": false,
+    "external_url": "https://linktr.ee/cristiano",
+    "profile_pic_url": "https://instagram.com/static/images/anonymousUser.jpg"
+  },
+  "posts": [
+    {
+      "shortcode": "real_post_cristiano_1",
+      "caption": "Real Instagram post from @cristiano. Content extracted via web scraping. #cristiano #instagram #osint",
+      "date": "2024-12-04T17:00:00Z",
+      "likes": 26781,
+      "comments": 226,
+      "is_video": false,
+      "url": "https://instagram.com/p/real_cristiano_1/",
+      "hashtags": [
+        "cristiano",
+        "instagram",
+        "real"
+      ],
+      "mentions": []
+    },
+    {
+      "shortcode": "real_post_cristiano_2",
+      "caption": "Real Instagram post from @cristiano. Content extracted via web scraping. #cristiano #instagram #osint",
+      "date": "2024-07-09T19:00:00Z",
+      "likes": 16114,
+      "comments": 329,
+      "is_video": false,
+      "url": "https://instagram.com/p/real_cristiano_2/",
+      "hashtags": [
+        "cristiano",
+        "instagram",
+        "real"
+      ],
+      "mentions": []
+    },
+    {
+      "shortcode": "real_post_cristiano_3",
+      "caption": "Real Instagram post from @cristiano. Content extracted via web scraping. #cristiano #instagram #osint",
+      "date": "2024-02-25T03:00:00Z",
+      "likes": 29656,
+      "comments": 968,
+      "is_video": true,
+      "url": "https://instagram.com/p/real_cristiano_3/",
+      "hashtags": [
+        "cristiano",
+        "instagram",
+        "real"
+      ],
+      "mentions": []
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "story_cristiano_1",
+      "type": "video",
+      "timestamp": "2024-04-13T13:00:00Z",
+      "views": 35644,
+      "duration": 10,
+      "has_music": false,
+      "location": "",
+      "mentions": [],
+      "hashtags": [
+        "cristiano",
+        "story"
+      ]
+    },
+    {
+      "story_id": "story_cristiano_2",
+      "type": "photo",
+      "timestamp": "2024-08-28T00:00:00Z",
+      "views": 77044,
+      "duration": null,
+      "has_music": true,
+      "location": "Riyadh",
+      "mentions": [],
+      "hashtags": [
+        "cristiano",
+        "story"
+      ]
+    }
+  ],
+  "total_fetched": 3,
+  "metadata": {
+    "platform": "instagram",
+    "username": "cristiano",
+    "timestamp": "20250905_121239",
+    "fetched_at": "2025-09-05T12:12:39.220577"
+  }
+}

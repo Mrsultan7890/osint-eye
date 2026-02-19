@@ -1,0 +1,209 @@
+{
+  "profile": {
+    "username": "cristiano",
+    "full_name": "Cristiano Ronaldo",
+    "biography": "SIUUUbscribe to my Youtube Channel!",
+    "followers": 664000000,
+    "followees": 623,
+    "posts_count": 3932,
+    "is_verified": false,
+    "is_private": false,
+    "external_url": "",
+    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=1&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=s07J-X30NK0Q7kNvwG7ouRS&_nc_oc=Adm0ZRxLob-rdYZw0DLRWDBMg6m9CXiMlAxpaY5zpXvvrpwEahgKJTcCY-skNBGIoFk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&oh=00_AfapK3E0z4AwccDB5404pRkZuDi3pH0g-j2cb__Dju8K6w&oe=68C0F85E"
+  },
+  "posts": [
+    {
+      "id": "post_cristiano_0",
+      "caption": "Always working to be better! 💪 #cr7 #football #training #siuuu",
+      "likes": 376161,
+      "comments": 8119,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#football",
+        "#training",
+        "#motivation"
+      ],
+      "mentions": [
+        "@cristianoteam",
+        "@nike",
+        "@adidas"
+      ],
+      "media_url": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=1&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=s07J-X30NK0Q7kNvwG7ouRS&_nc_oc=Adm0ZRxLob-rdYZw0DLRWDBMg6m9CXiMlAxpaY5zpXvvrpwEahgKJTcCY-skNBGIoFk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&oh=00_AfapK3E0z4AwccDB5404pRkZuDi3pH0g-j2cb__Dju8K6w&oe=68C0F85E",
+      "local_media_path": "../images/cristiano/cristiano_media_1.jpg"
+    },
+    {
+      "id": "post_cristiano_1",
+      "caption": "Grateful for this amazing journey! ⚽ #blessed #football #champions",
+      "likes": 322838,
+      "comments": 21362,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "video",
+      "hashtags": [
+        "#football",
+        "#training",
+        "#motivation"
+      ],
+      "mentions": [
+        "@cristianoteam",
+        "@nike",
+        "@adidas"
+      ],
+      "media_url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+      "local_media_path": "../images/cristiano/cristiano_media_2.mp4"
+    },
+    {
+      "id": "post_cristiano_2",
+      "caption": "Hard work pays off! 🏆 #dedication #football #nevergiveup #cr7",
+      "likes": 439204,
+      "comments": 23972,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "video",
+      "hashtags": [
+        "#football",
+        "#training",
+        "#motivation"
+      ],
+      "mentions": [
+        "@cristianoteam",
+        "@nike",
+        "@adidas"
+      ],
+      "media_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "post_cristiano_3",
+      "caption": "With my family, everything is possible! ❤️ #family #blessed #football",
+      "likes": 196761,
+      "comments": 10920,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#football",
+        "#training",
+        "#motivation"
+      ],
+      "mentions": [
+        "@cristianoteam",
+        "@nike",
+        "@adidas"
+      ]
+    },
+    {
+      "id": "post_cristiano_4",
+      "caption": "Always working to be better! 💪 #cr7 #football #training #siuuu",
+      "likes": 133757,
+      "comments": 8780,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#football",
+        "#training",
+        "#motivation"
+      ],
+      "mentions": [
+        "@cristianoteam",
+        "@nike",
+        "@adidas"
+      ]
+    },
+    {
+      "id": "post_cristiano_5",
+      "caption": "Grateful for this amazing journey! ⚽ #blessed #football #champions",
+      "likes": 447946,
+      "comments": 14551,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#football",
+        "#training",
+        "#motivation"
+      ],
+      "mentions": [
+        "@cristianoteam",
+        "@nike",
+        "@adidas"
+      ]
+    },
+    {
+      "id": "post_cristiano_6",
+      "caption": "Hard work pays off! 🏆 #dedication #football #nevergiveup #cr7",
+      "likes": 336231,
+      "comments": 5154,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#football",
+        "#training",
+        "#motivation"
+      ],
+      "mentions": [
+        "@cristianoteam",
+        "@nike",
+        "@adidas"
+      ]
+    },
+    {
+      "id": "post_cristiano_7",
+      "caption": "With my family, everything is possible! ❤️ #family #blessed #football",
+      "likes": 252165,
+      "comments": 18401,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#football",
+        "#training",
+        "#motivation"
+      ],
+      "mentions": [
+        "@cristianoteam",
+        "@nike",
+        "@adidas"
+      ]
+    },
+    {
+      "id": "post_cristiano_8",
+      "caption": "Always working to be better! 💪 #cr7 #football #training #siuuu",
+      "likes": 331734,
+      "comments": 15147,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#football",
+        "#training",
+        "#motivation"
+      ],
+      "mentions": [
+        "@cristianoteam",
+        "@nike",
+        "@adidas"
+      ]
+    },
+    {
+      "id": "post_cristiano_9",
+      "caption": "Grateful for this amazing journey! ⚽ #blessed #football #champions",
+      "likes": 146272,
+      "comments": 4643,
+      "timestamp": "2024-01-01T12:00:00Z",
+      "media_type": "photo",
+      "hashtags": [
+        "#football",
+        "#training",
+        "#motivation"
+      ],
+      "mentions": [
+        "@cristianoteam",
+        "@nike",
+        "@adidas"
+      ]
+    }
+  ],
+  "stories": [],
+  "total_fetched": 10,
+  "metadata": {
+    "platform": "instagram",
+    "username": "cristiano",
+    "timestamp": "20250905_180122",
+    "fetched_at": "2025-09-05T18:01:22.754222"
+  }
+}

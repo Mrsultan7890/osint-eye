@@ -1,0 +1,106 @@
+{
+  "post_count": 5,
+  "profile_analysis": {
+    "bio_length": 38,
+    "has_external_url": false,
+    "is_verified": false,
+    "follower_ratio": 0.75,
+    "extracted_entities": {
+      "emails": [],
+      "phones": [],
+      "urls": []
+    }
+  },
+  "content_analysis": {
+    "total_characters": 174,
+    "avg_post_length": 34.8,
+    "language_detection": {},
+    "readability_score": 1.55
+  },
+  "sentiment_analysis": [
+    {
+      "post_id": "who_is_the_black_hat_1",
+      "polarity": 0.0,
+      "subjectivity": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "post_id": "who_is_the_black_hat_2",
+      "polarity": 0.0,
+      "subjectivity": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "post_id": "who_is_the_black_hat_3",
+      "polarity": 0.0,
+      "subjectivity": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "post_id": "who_is_the_black_hat_4",
+      "polarity": 0.0,
+      "subjectivity": 0.0,
+      "sentiment_label": "neutral"
+    },
+    {
+      "post_id": "who_is_the_black_hat_5",
+      "polarity": 0.0,
+      "subjectivity": 0.0,
+      "sentiment_label": "neutral"
+    }
+  ],
+  "entity_extraction": {
+    "emails": [],
+    "phones": [],
+    "urls": [],
+    "mentions": []
+  },
+  "activity_analysis": {
+    "most_active_hour": 22,
+    "posts_by_hour": {
+      "22": 1,
+      "18": 1,
+      "6": 1,
+      "23": 1,
+      "14": 1
+    },
+    "posts_by_date": {
+      "2024-08-07": 1,
+      "2024-09-25": 1,
+      "2024-04-07": 1,
+      "2024-05-06": 1,
+      "2024-07-10": 1
+    },
+    "posting_frequency": 0.029239766081871343
+  },
+  "hashtag_analysis": {
+    "total_hashtags": 5,
+    "unique_hashtags": 1,
+    "top_hashtags": [
+      [
+        "who_is_the_black_hat",
+        5
+      ]
+    ],
+    "hashtag_diversity": 0.2
+  },
+  "engagement_analysis": {
+    "avg_likes": 503178.4,
+    "avg_comments": 23499.6,
+    "total_likes": 2515892,
+    "total_comments": 117498,
+    "engagement_rate": 526678.0
+  },
+  "sentiment_score": 0.0,
+  "top_keywords": [
+    "post",
+    "from",
+    "who_is_the_black_hat"
+  ],
+  "activity_peak": "Evening",
+  "metadata": {
+    "platform": "instagram",
+    "username": "who_is_the_black_hat",
+    "analyzed_at": "2025-09-05T13:12:48.385067"
+  }
+}

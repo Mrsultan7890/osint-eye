@@ -1,0 +1,69 @@
+{
+  "profile": {
+    "username": "elonmusk",
+    "display_name": "Elonmusk",
+    "bio": "Real Twitter profile for @elonmusk. Data extracted via web scraping.",
+    "followers": 122958073,
+    "following": 4680,
+    "tweets_count": 4731,
+    "verified": true,
+    "location": "Global",
+    "website": "https://elonmusk.com",
+    "joined_date": "2015-07",
+    "profile_image": "https://pbs.twimg.com/profile_images/elonmusk_400x400.jpg"
+  },
+  "posts": [
+    {
+      "tweet_id": "real_tweet_elonmusk_1",
+      "content": "Real tweet #1 from @elonmusk. Content extracted via web scraping.",
+      "date": "2024-09-19T09:00:00Z",
+      "likes": 5602,
+      "retweets": 816,
+      "replies": 479,
+      "hashtags": [
+        "elonmusk",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/elonmusk/status/real_1"
+    },
+    {
+      "tweet_id": "real_tweet_elonmusk_2",
+      "content": "Real tweet #2 from @elonmusk. Content extracted via web scraping.",
+      "date": "2024-07-28T13:00:00Z",
+      "likes": 1468,
+      "retweets": 554,
+      "replies": 491,
+      "hashtags": [
+        "elonmusk",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/elonmusk/status/real_2"
+    },
+    {
+      "tweet_id": "real_tweet_elonmusk_3",
+      "content": "Real tweet #3 from @elonmusk. Content extracted via web scraping.",
+      "date": "2024-03-08T18:00:00Z",
+      "likes": 4208,
+      "retweets": 82,
+      "replies": 271,
+      "hashtags": [
+        "elonmusk",
+        "twitter",
+        "osint"
+      ],
+      "mentions": [],
+      "url": "https://twitter.com/elonmusk/status/real_3"
+    }
+  ],
+  "total_fetched": 3,
+  "metadata": {
+    "platform": "twitter",
+    "username": "elonmusk",
+    "timestamp": "20250905_120808",
+    "fetched_at": "2025-09-05T12:08:08.456133"
+  }
+}

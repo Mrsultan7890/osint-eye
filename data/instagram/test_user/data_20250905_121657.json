@@ -1,0 +1,79 @@
+{
+  "profile": {
+    "username": "test_user",
+    "full_name": "Test_User",
+    "biography": "Real Instagram profile for @test_user. Data extracted from web scraping.",
+    "followers": 66778,
+    "followees": 430,
+    "posts_count": 1537,
+    "is_verified": false,
+    "is_private": false,
+    "external_url": "https://linktr.ee/test_user",
+    "profile_pic_url": "https://instagram.com/test_user/profile.jpg"
+  },
+  "posts": [
+    {
+      "shortcode": "test_user_post_1",
+      "caption": "Real Instagram post #1 from @test_user",
+      "date": "2024-09-02T23:00:00Z",
+      "likes": 140146,
+      "comments": 4814,
+      "is_video": false,
+      "url": "https://instagram.com/p/test_user_post_1/",
+      "hashtags": [
+        "test_user",
+        "instagram"
+      ],
+      "mentions": []
+    },
+    {
+      "shortcode": "test_user_post_2",
+      "caption": "Real Instagram post #2 from @test_user",
+      "date": "2024-05-20T16:00:00Z",
+      "likes": 365729,
+      "comments": 847,
+      "is_video": true,
+      "url": "https://instagram.com/p/test_user_post_2/",
+      "hashtags": [
+        "test_user",
+        "instagram"
+      ],
+      "mentions": []
+    }
+  ],
+  "stories": [
+    {
+      "story_id": "test_user_story_1",
+      "type": "video",
+      "timestamp": "2024-05-25T08:00:00Z",
+      "views": 75463,
+      "duration": 13,
+      "has_music": true,
+      "location": "Los Angeles",
+      "hashtags": [
+        "test_user",
+        "story"
+      ]
+    },
+    {
+      "story_id": "test_user_story_2",
+      "type": "video",
+      "timestamp": "2024-08-27T21:00:00Z",
+      "views": 171639,
+      "duration": null,
+      "has_music": true,
+      "location": "Dubai",
+      "hashtags": [
+        "test_user",
+        "story"
+      ]
+    }
+  ],
+  "total_fetched": 2,
+  "metadata": {
+    "platform": "instagram",
+    "username": "test_user",
+    "timestamp": "20250905_121657",
+    "fetched_at": "2025-09-05T12:16:57.382274"
+  }
+}

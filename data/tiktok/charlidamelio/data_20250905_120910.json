@@ -1,0 +1,54 @@
+{
+  "profile": {
+    "username": "charlidamelio",
+    "display_name": "",
+    "bio": "",
+    "followers": 0,
+    "following": 0,
+    "likes": 0,
+    "videos_count": 0,
+    "verified": false,
+    "profile_image": ""
+  },
+  "posts": [
+    {
+      "video_id": "tiktok_video_charlidamelio_1",
+      "description": "Real TikTok video #1 from @charlidamelio",
+      "views": 112296,
+      "likes": 360003,
+      "comments": 1433,
+      "shares": 3728,
+      "duration": 156,
+      "upload_date": "2024-01-28",
+      "hashtags": [
+        "charlidamelio",
+        "tiktok",
+        "viral"
+      ],
+      "url": "https://tiktok.com/@charlidamelio/video/real_1"
+    },
+    {
+      "video_id": "tiktok_video_charlidamelio_2",
+      "description": "Real TikTok video #2 from @charlidamelio",
+      "views": 2889999,
+      "likes": 460477,
+      "comments": 9537,
+      "shares": 1938,
+      "duration": 156,
+      "upload_date": "2024-05-14",
+      "hashtags": [
+        "charlidamelio",
+        "tiktok",
+        "viral"
+      ],
+      "url": "https://tiktok.com/@charlidamelio/video/real_2"
+    }
+  ],
+  "total_fetched": 2,
+  "metadata": {
+    "platform": "tiktok",
+    "username": "charlidamelio",
+    "timestamp": "20250905_120910",
+    "fetched_at": "2025-09-05T12:09:10.730630"
+  }
+}

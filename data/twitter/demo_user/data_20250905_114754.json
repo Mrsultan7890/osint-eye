@@ -1,0 +1,104 @@
+{
+  "profile": {
+    "username": "demo_user",
+    "display_name": "Demo_User",
+    "description": "Twitter profile for demo_user",
+    "followers_count": 1000,
+    "friends_count": 500,
+    "statuses_count": 100,
+    "verified": false,
+    "created": "2020-01-01T00:00:00Z",
+    "location": "Unknown",
+    "url": "https://twitter.com/demo_user",
+    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+  },
+  "posts": [
+    {
+      "id": "demo_tweet_0",
+      "content": "Demo tweet content 1 from demo_user",
+      "date": "2023-01-01T12:00:00Z",
+      "retweet_count": 10,
+      "like_count": 50,
+      "reply_count": 5,
+      "quote_count": 2,
+      "url": "https://twitter.com/demo_user/status/demo_tweet_0",
+      "hashtags": [
+        "demo0",
+        "twitter"
+      ],
+      "mentions": [],
+      "lang": "en"
+    },
+    {
+      "id": "demo_tweet_1",
+      "content": "Demo tweet content 2 from demo_user",
+      "date": "2023-01-01T12:00:00Z",
+      "retweet_count": 20,
+      "like_count": 100,
+      "reply_count": 10,
+      "quote_count": 4,
+      "url": "https://twitter.com/demo_user/status/demo_tweet_1",
+      "hashtags": [
+        "demo1",
+        "twitter"
+      ],
+      "mentions": [],
+      "lang": "en"
+    },
+    {
+      "id": "demo_tweet_2",
+      "content": "Demo tweet content 3 from demo_user",
+      "date": "2023-01-01T12:00:00Z",
+      "retweet_count": 30,
+      "like_count": 150,
+      "reply_count": 15,
+      "quote_count": 6,
+      "url": "https://twitter.com/demo_user/status/demo_tweet_2",
+      "hashtags": [
+        "demo2",
+        "twitter"
+      ],
+      "mentions": [],
+      "lang": "en"
+    },
+    {
+      "id": "demo_tweet_3",
+      "content": "Demo tweet content 4 from demo_user",
+      "date": "2023-01-01T12:00:00Z",
+      "retweet_count": 40,
+      "like_count": 200,
+      "reply_count": 20,
+      "quote_count": 8,
+      "url": "https://twitter.com/demo_user/status/demo_tweet_3",
+      "hashtags": [
+        "demo3",
+        "twitter"
+      ],
+      "mentions": [],
+      "lang": "en"
+    },
+    {
+      "id": "demo_tweet_4",
+      "content": "Demo tweet content 5 from demo_user",
+      "date": "2023-01-01T12:00:00Z",
+      "retweet_count": 50,
+      "like_count": 250,
+      "reply_count": 25,
+      "quote_count": 10,
+      "url": "https://twitter.com/demo_user/status/demo_tweet_4",
+      "hashtags": [
+        "demo4",
+        "twitter"
+      ],
+      "mentions": [],
+      "lang": "en"
+    }
+  ],
+  "total_fetched": 5,
+  "metadata": {
+    "platform": "twitter",
+    "username": "demo_user",
+    "timestamp": "20250905_114754",
+    "fetched_at": "2025-09-05T11:47:54.464102"
+  }
+}
